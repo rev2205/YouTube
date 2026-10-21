@@ -1,0 +1,62 @@
+{
+  "International": [
+    {
+      "name": "Sabrina Carpenter",
+      "id": "1152083-sabrina-carpenter",
+      "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1152083-sabrina-carpenter.webp",
+      "YoutubePlaylistID": "PLB63BM9qQL0g",
+      "LivePlaylistID": "",
+      "Genre": "Female"
+    },
+    {
+      "name": "Tyla",
+      "id": "4535189-tyla",
+      "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/4535189-tyla.webp",
+      "YoutubePlaylistID": "PLPeN4ta-MgWI",
+      "LivePlaylistID": "PLQcT8UvDMVXI",
+      "Genre": "Female"
+    },
+    {
+      "name": "Dua Lipa",
+      "id": "1959397-dua-lipa",
+      "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1959397-dua-lipa.webp",
+      "YoutubePlaylistID": "PLRljFr5iKIf0",
+      "LivePlaylistID": "",
+      "Genre": "Female"
+    },
+    {
+      "name": "Bebe Rexha",
+      "id": "2167419-bebe-rexha",
+      "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/2167419-bebe-rexha.webp",
+      "YoutubePlaylistID": "PLelnXXyQr0RM",
+      "LivePlaylistID": "",
+      "Genre": "Female"
+    },
+    {
+      "name": "Anne Marie",
+      "id": "2240445-anne-marie",
+      "customImage": null,
+      "YoutubePlaylistID": "PLJvtul_L-JSs",
+      "LivePlaylistID": "",
+      "Genre": "Female"
+    },
+    {
+      "name": "Lana Del Rey",
+      "id": "579551-lana-del-rey",
+      "customImage": null,
+      "YoutubePlaylistID": "PLDcHjz5JGcQA",
+      "LivePlaylistID": "",
+      "Genre": "Female"
+    }
+  ],
+  "Indian": [
+    {
+      "name": "Anirudh Ravichander",
+      "id": "1081464",
+      "customImage": null,
+      "YoutubePlaylistID": "PLK6XYwvqSyho",
+      "LivePlaylistID": "",
+      "Genre": "Male"
+    }
+  ]
+}

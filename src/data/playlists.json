@@ -1,0 +1,76 @@
+{
+  "Music": {
+    "icon": "",
+    "categories": {
+      "Telugu": {
+        "Romance": "PLk-aMlMwXfRwBhB-Ea-lSJS5GVR3rehH6",
+        "Mass": "PLk-aMlMwXfRz_7esnhJKRH-iY_b5q56Zh",
+        "Item": "PLk-aMlMwXfRxBKjidFEqfRIPXefB68qry",
+        "Groovy": [
+          "PLk-aMlMwXfRzUVl1ggAQC7TYv9rRC8-5h",
+          "PLk-aMlMwXfRwmNkPS8Zsx9HxbqB76ui9e"
+        ],
+        "Energetic": "PLk-aMlMwXfRwoV9O5KAkGFgNHOCiho1Yb",
+        "Classics": "PLk-aMlMwXfRwJQFWg9aHtf3ngnV8DS8Et",
+        "Vintage": "PLk-aMlMwXfRw7ILgsWwbQ7wfrFYf1dpLH"
+      },
+      "Tamil": {
+        "Mass": "PLk-aMlMwXfRzRiSPcBA6YP34IWcW_wYNv",
+        "Energetic": "PLk-aMlMwXfRykNhc-6pyEtRNSphFOgCgB",
+        "Groovy": "PLk-aMlMwXfRzjAZ4Zk3N9d7TQJin3nE7a",
+        "Item": "PLk-aMlMwXfRwP3O-VX0Ka05kFRrDD8_go",
+        "Romance": "PLk-aMlMwXfRyVTYjvQ2pqRsojIK0GaCzk",
+        "Sad": "PLk-aMlMwXfRy6VkAuC2QctXxEktYvkupe",
+        "Classics": "PLk-aMlMwXfRx9LEGCagZxWdtFLDrcRz15"
+      },
+      "Hindi": {
+        "Romance": "PLk-aMlMwXfRwFFMNbc46LKa91GzY6GBLv",
+        "Item": "PLk-aMlMwXfRzD2PvOZ4X1FGHHC46Axzum",
+        "Groovy": "PLk-aMlMwXfRygRSIf5yvaYwSbeaHUEp-j",
+        "Energetic": "PLk-aMlMwXfRweHgvy8prxpr15P-wqd8Tn",
+        "Mass": "PLk-aMlMwXfRyrOa8RWFbStNdjd5Vdbxvv",
+        "Sad": "PLk-aMlMwXfRz3dsQ-ZpR8t26PRZFMO8py"
+      },
+      "English": {
+        "Savage": "PLk-aMlMwXfRzSC1z2FLWhRxvS6LgfyPt8",
+        "Serenity": "PLk-aMlMwXfRzSnaKyqhyBjy7MBMvGDBNt",
+        "Melancholy": "PLk-aMlMwXfRydKxPDS3aUKxB768SuEmFe",
+        "Resonance": "PLTpCxa5yE6zU",
+        "Atmoshpheric": "PLYHcW2x9ojO8"
+      },
+      "Kanada": {
+        "Item": "PLk-aMlMwXfRyFbO2p-n6SRfN47Od86tKN",
+        "Romantic": "PLk-aMlMwXfRwf2spnZMRs5oV3YvFyFxk_",
+        "Energitic": "PLk-aMlMwXfRyNhGDQugPxrZNl44DB4F3w"
+      },
+      "Malayalam": {
+        "Songs": "PLk-aMlMwXfRz_dJhj0myagrGddDgdimf7"
+      },
+      "Bhojpuri": {
+        "Songs": "PLk-aMlMwXfRyiUiDp6pAJYgdVwSszwAd4"
+      },
+      "Live": {
+        "Tamil": "PLk-aMlMwXfRyb5Y00VpORi1yOPS1eyjAN",
+        "Hindi": "PLk-aMlMwXfRzOHweUytQqk2P94OiuCsy2",
+        "English": "PLk-aMlMwXfRwIeh3naL5x9gqvzh8aWXQh",
+        "Telugu": "PLk-aMlMwXfRxfGZCd02NnjrkvUvHuaSda"
+      },
+      "Others": {
+        "Straight From The Studio": "PLk-aMlMwXfRxyI38CSiTZKDssEXoopXQB",
+        "Devotional": "PLk-aMlMwXfRyVASNJHTRO0EPD97FkQQmH",
+        "Dance Covers": "PLk-aMlMwXfRw3uLULtPnxYbi7NhqSpTWs",
+        "International": "PLk-aMlMwXfRzHTnzUxezQYN0DjGVo6oNl",
+        "Workout": "PLBKhusdjwsvo",
+        "Russian": "PLIyV4DafkJXM"
+      }
+    }
+  },
+  "Anime": {
+    "icon": "",
+    "categories": {
+      "Lofi": {
+        "Chill": "PLk-aMlMwXfRwtsMhNa6MrxDvVoT3CdoGT"
+      }
+    }
+  }
+}

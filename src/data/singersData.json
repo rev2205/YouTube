@@ -1,0 +1,426 @@
+{
+  "lastUpdated": "2026-10-21T12:02:46.138Z",
+  "singers": {
+    "International": [
+      {
+        "id": "1152083-sabrina-carpenter",
+        "name": "Sabrina Carpenter",
+        "genre": "Female",
+        "category": "International",
+        "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1152083-sabrina-carpenter.webp",
+        "profilePath": "/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg",
+        "profileUrl": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1152083-sabrina-carpenter.webp",
+        "biography": "Sabrina Annlynn Carpenter (born May 11, 1999) is an American singer, songwriter, and actress.\n\nShe made her acting debut in 2011. As an actress, she's best known for her roles the Disney Channel series Girl Meets World (2014—2017), the Disney Channel Original Movie Adventures in Babysitting (2016), and the Netflix Originals Tall Girl (2019) and Work It (2020). In 2019, she also starred in the critically acclaimed indie The Short History of the Long Road. Sabrina is also known for her chart-topping hits \"Nonsense\", \"Feather\", and \"Espresso\". In 2025, she won the awards for Best Pop Solo Performance and Best Pop Vocal Album at 76th Annual Grammy Awards.",
+        "birthday": "1999-05-11",
+        "placeOfBirth": "Quakertown, Pennsylvania, USA",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLB63BM9qQL0g",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "eVli-tstM5E",
+            "title": "Sabrina Carpenter - Espresso",
+            "thumbnail": "https://img.youtube.com/vi/eVli-tstM5E/maxresdefault.jpg",
+            "duration": "3:21",
+            "durationSec": 201,
+            "date": "2024-04-12T07:00:07-07:00",
+            "resolution": "4K",
+            "viewCount": 694751390
+          }
+        ],
+        "liveVideos": []
+      },
+      {
+        "id": "4535189-tyla",
+        "name": "Tyla",
+        "genre": "Female",
+        "category": "International",
+        "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/4535189-tyla.webp",
+        "profilePath": "/jDJAaBsQCjH8XEel6AiBsA3qz8z.jpg",
+        "profileUrl": "https://raw.githubusercontent.com/Authormorgan6/singers/main/4535189-tyla.webp",
+        "biography": "Tyla Laura Seethal (born January 30, 2002) , known mononymously as Tyla, is a South African singer and songwriter. Her musical style is characterised by a fusion of the pop and amapiano genres, with many publications dubbing her \"Queen of Popiano.\"\n\nBorn and raised in Johannesburg, during her final year of high school she began pursuing a career in music, posting original songs and covers on Instagram and actively seeking out opportunities in the music industry. She was discovered by her first manager, Garth von Glehn, who organized her first recording sessions. Tyla stated that she spent every weekend of her final year of high school in the recording studio. Tyla signed with Epic Records in 2021 following the domestic success of her 2019 debut single, \"Getting Late\". She gained international recognition after the release of her 2023 single \"Water\", which entered the top ten in multiple countries including her native South Africa, the United Kingdom and the United States. \"Water\" was the first song by a South African soloist to enter the US Billboard Hot 100 in 55 years and was awarded the inaugural Grammy Award for Best African Music Performance. The single preceded her self-titled debut album (2024), which was released to critical acclaim and moderate commercial success, entering the top 25 in multiple countries including the United States.\n\nTyla is the youngest African artist in history to win a Grammy Award. Her other accolades include an MTV Video Music Award,two BET Awards and the honorary Global Force Award at the first Billboard R&B's No. 1's among nominations for a Brit Award, an Ivor Novello Award, a Soul Train Music Award and nine South African Music Awards.\n\nTyla's biggest musical influences include Michael Jackson, Aaliyah, Rihanna, Cassie, Ciara, Shakira, Freshlyground, Britney Spears, Drake and Wizkid. She has said that her dream is to become the first global pop star from Africa.",
+        "birthday": "2002-01-30",
+        "placeOfBirth": "Edenvale, Gauteng, South Africa",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLPeN4ta-MgWI",
+        "livePlaylistId": "PLQcT8UvDMVXI",
+        "videos": [
+          {
+            "youtubeLinkID": "XoiOOiuH8iI",
+            "title": "Tyla - Water (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/XoiOOiuH8iI/maxresdefault.jpg",
+            "duration": "3:40",
+            "durationSec": 220,
+            "date": "2023-10-05T21:00:07-07:00",
+            "resolution": "1080p",
+            "viewCount": 414218231
+          },
+          {
+            "youtubeLinkID": "xiZUf98A1Ts",
+            "title": "Tyla - CHANEL (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/xiZUf98A1Ts/maxresdefault.jpg",
+            "duration": "3:10",
+            "durationSec": 190,
+            "date": "2025-10-23T21:00:06-07:00",
+            "resolution": "4K",
+            "viewCount": 158107666
+          }
+        ],
+        "liveVideos": [
+          {
+            "youtubeLinkID": "88a7rr8KXcE",
+            "title": "Tyla - Water (Live) | Vevo DSCVR",
+            "thumbnail": "https://img.youtube.com/vi/88a7rr8KXcE/maxresdefault.jpg",
+            "duration": "3:21",
+            "durationSec": 201,
+            "date": "2023-08-02T09:00:09-07:00",
+            "resolution": "4K",
+            "viewCount": 6990175
+          }
+        ]
+      },
+      {
+        "id": "1959397-dua-lipa",
+        "name": "Dua Lipa",
+        "genre": "Female",
+        "category": "International",
+        "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1959397-dua-lipa.webp",
+        "profilePath": "/aCZmliGT5oDGiF8aKvxFbct5JQm.jpg",
+        "profileUrl": "https://raw.githubusercontent.com/Authormorgan6/singers/main/1959397-dua-lipa.webp",
+        "biography": "Dua Lipa (born 22 August 1995) is an English and Albanian singer and songwriter. Lipa worked as a model before signing a recording contract with Warner Bros. in 2014. She rose to prominence with her eponymous debut album in 2017, which peaked at number three on the UK Albums Chart and spawned the successful singles \"Be the One\", \"IDGAF\", and the UK number-one single \"New Rules\".",
+        "birthday": "1995-08-22",
+        "placeOfBirth": "London, England, UK",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLRljFr5iKIf0",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "TUVcZfQe-Kw",
+            "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/TUVcZfQe-Kw/maxresdefault.jpg",
+            "duration": "3:51",
+            "durationSec": 231,
+            "date": "2020-10-02T05:00:12-07:00",
+            "resolution": "1080p",
+            "viewCount": 1171719102
+          },
+          {
+            "youtubeLinkID": "k2qgadSvNyU",
+            "title": "Dua Lipa - New Rules (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/k2qgadSvNyU/maxresdefault.jpg",
+            "duration": "3:45",
+            "durationSec": 225,
+            "date": "2017-07-07T02:00:05-07:00",
+            "resolution": "4K",
+            "viewCount": 3340146797
+          },
+          {
+            "youtubeLinkID": "oygrmJFKYZY",
+            "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+            "duration": "3:02",
+            "durationSec": 182,
+            "date": "2019-11-01T06:00:11-07:00",
+            "resolution": "1080p",
+            "viewCount": 780119963
+          }
+        ],
+        "liveVideos": []
+      },
+      {
+        "id": "2167419-bebe-rexha",
+        "name": "Bebe Rexha",
+        "genre": "Female",
+        "category": "International",
+        "customImage": "https://raw.githubusercontent.com/Authormorgan6/singers/main/2167419-bebe-rexha.webp",
+        "profilePath": "/cpzK852JtDLJf3zd0RuVd1giOeX.jpg",
+        "profileUrl": "https://raw.githubusercontent.com/Authormorgan6/singers/main/2167419-bebe-rexha.webp",
+        "biography": "Bleta Rexha (Albanian pronunciation: [ˈblɛta ˈɾɛdʒa]; (born August 30, 1989), known professionally as Bebe Rexha, is an American pop singer and songwriter. After signing with Warner Records in 2013, Rexha received songwriting credits on Eminem's single \"The Monster\" (which later received the Grammy Award for Best Rap/Sung Performance) and has also contributed songwriting to songs recorded by Shinee, Selena Gomez, and Nick Jonas. Rexha released her debut extended play in 2015, I Don't Wanna Grow Up, which saw the moderate commercial success of the singles \"I Can't Stop Drinking About You\" and \"I'm Gonna Show You Crazy\".\n\nRexha released two additional extended plays in 2017, All Your Fault: Pt. 1 and All Your Fault: Pt. 2, which again saw the moderate success of the singles \"I Got You\" and \"The Way I Are (Dance with Somebody)\". Rexha has also seen success with several collaborations including \"Hey Mama\" with David Guetta, Nicki Minaj and Afrojack, \"Me, Myself & I\" with G-Eazy, \"In the Name of Love\" with Martin Garrix, and \"Meant to Be\" with Florida Georgia Line, the latter of which had large success as a country crossover single, peaking at number two on the Billboard Hot 100 chart in the United States. Rexha's debut studio album, Expectations (2018), reached number 13 on the Billboard 200 chart in the United States and saw the success of its lead single, \"I'm a Mess\", and brought Rexha two nominations for Best New Artist and Best Country Duo/Group Performance at the 61st Grammy Awards. Rexha released her second studio album, Better Mistakes, in 2021.",
+        "birthday": "1989-08-30",
+        "placeOfBirth": "Brooklyn, New York, USA",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLelnXXyQr0RM",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "LdH7aFjDzjI",
+            "title": "Bebe Rexha - I'm A Mess [Official Music Video]",
+            "thumbnail": "https://img.youtube.com/vi/LdH7aFjDzjI/maxresdefault.jpg",
+            "duration": "3:22",
+            "durationSec": 202,
+            "date": "2018-07-19T07:55:54-07:00",
+            "resolution": "1080p",
+            "viewCount": 468519928
+          },
+          {
+            "youtubeLinkID": "uEJuoEs1UxY",
+            "title": "Bebe Rexha - I Got You [Official Music Video]",
+            "thumbnail": "https://img.youtube.com/vi/uEJuoEs1UxY/maxresdefault.jpg",
+            "duration": "3:17",
+            "durationSec": 197,
+            "date": "2017-01-06T06:04:14-08:00",
+            "resolution": "1080p",
+            "viewCount": 411444229
+          },
+          {
+            "youtubeLinkID": "RnBT9uUYb1w",
+            "title": "Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)",
+            "thumbnail": "https://img.youtube.com/vi/RnBT9uUYb1w/maxresdefault.jpg",
+            "duration": "3:26",
+            "durationSec": 206,
+            "date": "2016-08-23T07:00:13-07:00",
+            "resolution": "1080p",
+            "viewCount": 949240956
+          },
+          {
+            "youtubeLinkID": "3XCVM3G3pns",
+            "title": "The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha",
+            "thumbnail": "https://img.youtube.com/vi/3XCVM3G3pns/maxresdefault.jpg",
+            "duration": "3:38",
+            "durationSec": 218,
+            "date": "2019-05-31T06:58:43-07:00",
+            "resolution": "1080p",
+            "viewCount": 126514851
+          },
+          {
+            "youtubeLinkID": "BinSLOxvZx0",
+            "title": "Bebe Rexha - Last Hurrah (Official Vertical Video)",
+            "thumbnail": "https://img.youtube.com/vi/BinSLOxvZx0/maxresdefault.jpg",
+            "duration": "2:33",
+            "durationSec": 153,
+            "date": "2019-03-22T10:00:02-07:00",
+            "resolution": "1080p",
+            "viewCount": 12794855
+          }
+        ],
+        "liveVideos": []
+      },
+      {
+        "id": "2240445-anne-marie",
+        "name": "Anne Marie",
+        "genre": "Female",
+        "category": "International",
+        "customImage": null,
+        "profilePath": "/nGNNNar0WjC3hbjexm7sRNbCffl.jpg",
+        "profileUrl": "https://image.tmdb.org/t/p/w500/nGNNNar0WjC3hbjexm7sRNbCffl.jpg",
+        "biography": "Anne-Marie (born Anne-Marie Rose Nicholson) is a highly successful English singer and songwriter who has achieved global chart success through her solo work and high-profile collaborations. She first gained widespread mainstream recognition in 2016 as a featured vocalist on Clean Bandit's global multi-platinum hit single \"Rockabye\" alongside Sean Paul.",
+        "birthday": "1991-04-07",
+        "placeOfBirth": "East Tilbury, Essex, England, UK",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLJvtul_L-JSs",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "qqob4D3BoZc",
+            "title": "Anne-Marie - Ciao Adios [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/qqob4D3BoZc/maxresdefault.jpg",
+            "duration": "3:30",
+            "durationSec": 210,
+            "date": "2017-03-09T07:48:09-08:00",
+            "resolution": "1080p",
+            "viewCount": 339013183
+          },
+          {
+            "youtubeLinkID": "jzD_yyEcp0M",
+            "title": "Marshmello & Anne-Marie - FRIENDS (Music Video) *OFFICIAL FRIENDZONE ANTHEM*",
+            "thumbnail": "https://img.youtube.com/vi/jzD_yyEcp0M/maxresdefault.jpg",
+            "duration": "3:52",
+            "durationSec": 232,
+            "date": "2018-02-16T04:41:36-08:00",
+            "resolution": "1080p",
+            "viewCount": 1145890140
+          },
+          {
+            "youtubeLinkID": "papuvlVeZg8",
+            "title": "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/papuvlVeZg8/maxresdefault.jpg",
+            "duration": "4:14",
+            "durationSec": 254,
+            "date": "2016-10-21T04:30:36-07:00",
+            "resolution": "1080p",
+            "viewCount": 3226616929
+          },
+          {
+            "youtubeLinkID": "egVAW6l_QU8",
+            "title": "Anne-Marie - BIRTHDAY [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/egVAW6l_QU8/maxresdefault.jpg",
+            "duration": "3:47",
+            "durationSec": 227,
+            "date": "2020-02-07T02:00:11-08:00",
+            "resolution": "1080p",
+            "viewCount": 56439106
+          },
+          {
+            "youtubeLinkID": "r3RXHOTMmLw",
+            "title": "Anne-Marie - Alarm [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/r3RXHOTMmLw/maxresdefault.jpg",
+            "duration": "4:06",
+            "durationSec": 246,
+            "date": "2016-05-20T04:07:51-07:00",
+            "resolution": "1080p",
+            "viewCount": 104130128
+          },
+          {
+            "youtubeLinkID": "Il-an3K9pjg",
+            "title": "Anne-Marie - 2002 [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/Il-an3K9pjg/maxresdefault.jpg",
+            "duration": "3:15",
+            "durationSec": 195,
+            "date": "2018-05-08T04:05:08-07:00",
+            "resolution": "1080p",
+            "viewCount": 1092668148
+          }
+        ],
+        "liveVideos": []
+      },
+      {
+        "id": "579551-lana-del-rey",
+        "name": "Lana Del Rey",
+        "genre": "Female",
+        "category": "International",
+        "customImage": null,
+        "profilePath": "/6yAdwglAlUZHm90y6ChRKyoQQ6i.jpg",
+        "profileUrl": "https://image.tmdb.org/t/p/w500/6yAdwglAlUZHm90y6ChRKyoQQ6i.jpg",
+        "biography": "Elizabeth Woolridge Grant (born June 21, 1985), known professionally as Lana Del Rey, is an American singer and songwriter. Born and raised in New York,  Del Rey embarked on a music career in 2005 and first received  widespread attention in 2011, when the music video for her single \"Video Games\" became a viral internet sensation. Her music has been noted for its cinematic style, its preoccupation with themes of tragic romance and melancholia, and its references to pop culture, particularly 1950s and 1960s Americana.",
+        "birthday": "1986-06-21",
+        "placeOfBirth": "Lake Placid, New York, USA",
+        "knownForDepartment": "Acting",
+        "youtubePlaylistId": "PLDcHjz5JGcQA",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "o_1aF54DO60",
+            "title": "Lana Del Rey - Young and Beautiful",
+            "thumbnail": "https://img.youtube.com/vi/o_1aF54DO60/maxresdefault.jpg",
+            "duration": "3:59",
+            "durationSec": 239,
+            "date": "2013-05-10T00:01:10-07:00",
+            "resolution": "1080p",
+            "viewCount": 840781498
+          },
+          {
+            "youtubeLinkID": "TdrL3QxjyVw",
+            "title": "Lana Del Rey - Summertime Sadness (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/TdrL3QxjyVw/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2013-08-23T03:38:53-07:00",
+            "resolution": "1080p",
+            "viewCount": 936722550
+          },
+          {
+            "youtubeLinkID": "oKxuiw3iMBE",
+            "title": "Lana Del Rey - West Coast",
+            "thumbnail": "https://img.youtube.com/vi/oKxuiw3iMBE/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2014-05-07T08:33:46-07:00",
+            "resolution": "1080p",
+            "viewCount": 258407534
+          },
+          {
+            "youtubeLinkID": "MiAoetOXKcY",
+            "title": "Lana Del Rey - Say Yes To Heaven (Official Audio)",
+            "thumbnail": "https://img.youtube.com/vi/MiAoetOXKcY/maxresdefault.jpg",
+            "duration": "3:30",
+            "durationSec": 210,
+            "date": "2023-05-18T21:00:09-07:00",
+            "resolution": "1080p",
+            "viewCount": 122852997
+          },
+          {
+            "youtubeLinkID": "3-NTv0CdFCk",
+            "title": "Lana Del Rey - Love",
+            "thumbnail": "https://img.youtube.com/vi/3-NTv0CdFCk/maxresdefault.jpg",
+            "duration": "4:55",
+            "durationSec": 295,
+            "date": "2017-02-20T08:05:00-08:00",
+            "resolution": "1080p",
+            "viewCount": 251493816
+          },
+          {
+            "youtubeLinkID": "vBHild0PiTE",
+            "title": "Lana Del Rey - Chemtrails Over The Country Club (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/vBHild0PiTE/maxresdefault.jpg",
+            "duration": "5:41",
+            "durationSec": 341,
+            "date": "2021-01-11T11:10:09-08:00",
+            "resolution": "1080p",
+            "viewCount": 62882155
+          },
+          {
+            "youtubeLinkID": "DCYmJDO2_IE",
+            "title": "Cinnamon Girl",
+            "thumbnail": "https://img.youtube.com/vi/DCYmJDO2_IE/maxresdefault.jpg",
+            "duration": "5:01",
+            "durationSec": 301,
+            "date": "2019-08-29T03:01:12-07:00",
+            "resolution": "1080p",
+            "viewCount": 232439725
+          },
+          {
+            "youtubeLinkID": "F4ELqraXx-U",
+            "title": "Lana Del Rey - White Mustang (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/F4ELqraXx-U/maxresdefault.jpg",
+            "duration": "4:42",
+            "durationSec": 282,
+            "date": "2017-09-13T08:00:01-07:00",
+            "resolution": "1080p",
+            "viewCount": 71831738
+          },
+          {
+            "youtubeLinkID": "lfUmmGpg5Kc",
+            "title": "Lana Del Rey - Brooklyn Baby (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/lfUmmGpg5Kc/maxresdefault.jpg",
+            "duration": "5:53",
+            "durationSec": 353,
+            "date": "2019-12-22T20:00:59-08:00",
+            "resolution": "1080p",
+            "viewCount": 6130306
+          },
+          {
+            "youtubeLinkID": "qolmz4FlnZ0",
+            "title": "Lana Del Rey - Doin' Time",
+            "thumbnail": "https://img.youtube.com/vi/qolmz4FlnZ0/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2019-08-29T09:00:10-07:00",
+            "resolution": "1080p",
+            "viewCount": 187584619
+          }
+        ],
+        "liveVideos": []
+      }
+    ],
+    "Indian": [
+      {
+        "id": "1081464",
+        "name": "Anirudh Ravichander",
+        "genre": "Male",
+        "category": "Indian",
+        "customImage": null,
+        "profilePath": "/xKvlrZpRaXkm2K2ZiXpqgrEedUU.jpg",
+        "profileUrl": "https://image.tmdb.org/t/p/w500/xKvlrZpRaXkm2K2ZiXpqgrEedUU.jpg",
+        "biography": "Anirudh is an Indian film composer and singer. He made his debut in the Tamil film, 3 directed by Aishwarya R. Dhanush. The song, \"Why This Kolaveri Di\", that Anirudh had composed for the Tamil film 3, went viral on YouTube and tracked more than 100 million views. Anirudh is the son of actor Ravi Raghavendra, nephew of Rajinikanth and Latha Rajinikanth, and cousin of Aishwarya and Soundarya Rajinikanth.\n\nHe did his schooling at Padma Seshadri Bala Bhavan, K.K. Nagar. He graduated from Loyola College, Chennai in 2011, which according to him was just a back up in case his music career did not take off. Anirudh learnt classical piano from Trinity College of Music, London. He also learnt Carnatic music, and was part of a Carnatic fusion band.",
+        "birthday": "1990-10-16",
+        "placeOfBirth": "Chennai, Tamil Nadu, India",
+        "knownForDepartment": "Sound",
+        "youtubePlaylistId": "PLK6XYwvqSyho",
+        "livePlaylistId": "",
+        "videos": [
+          {
+            "youtubeLinkID": "QTLiVG2ln-k",
+            "title": "Annakiliye - Music Video | Smith Asher | Viky Pup | Dheekshitha | Albuquerque Records | Anirudh",
+            "thumbnail": "https://img.youtube.com/vi/QTLiVG2ln-k/maxresdefault.jpg",
+            "duration": "5:24",
+            "durationSec": 324,
+            "date": "2026-09-27T21:50:03-07:00",
+            "resolution": "4K",
+            "viewCount": 2852217
+          }
+        ],
+        "liveVideos": []
+      }
+    ]
+  }
+}
