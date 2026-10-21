@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T15:18:06.456Z",
+  "lastUpdated": "2026-10-21T15:18:24.716Z",
   "movies": {
     "148284": {
       "tmdbId": 148284,
@@ -688,28 +688,6 @@
       "youtubePlaylistId": "PLA_2cKlGawhc",
       "videos": []
     },
-    "1112426-2": {
-      "tmdbId": 1112426,
-      "title": "Stree 2",
-      "originalTitle": "स्त्री 2: सरकटे का आतंक",
-      "language": "Hindi",
-      "year": 2024,
-      "releaseDate": "2024-08-15",
-      "overview": "Following the events of 'Stree', the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and friends to save their town and loved ones.",
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "runtime": 143,
-      "voteAverage": 6.693,
-      "voteCount": 109,
-      "posterPath": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
-      "backdropPath": "/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
-      "youtubePlaylistId": "PLRnfSOtSyGI4",
-      "videos": []
-    },
     "1290190-chapter-1": {
       "tmdbId": 1290190,
       "title": "Lokah Chapter 1: Chandra",
@@ -731,6 +709,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/tkRZ8BpIlvQIFBQWwEHuAlxczyb.jpg",
       "youtubePlaylistId": "PLTn8b0kpAgS0",
+      "videos": []
+    },
+    "1112426-2": {
+      "tmdbId": 1112426,
+      "title": "Stree 2",
+      "originalTitle": "स्त्री 2: सरकटे का आतंक",
+      "language": "Hindi",
+      "year": 2024,
+      "releaseDate": "2024-08-15",
+      "overview": "Following the events of 'Stree', the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and friends to save their town and loved ones.",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "runtime": 143,
+      "voteAverage": 6.693,
+      "voteCount": 109,
+      "posterPath": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+      "backdropPath": "/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
+      "youtubePlaylistId": "PLRnfSOtSyGI4",
       "videos": []
     }
   }
