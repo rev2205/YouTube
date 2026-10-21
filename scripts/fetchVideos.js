@@ -82,7 +82,7 @@ export async function fetchPlaylist(idOrUrl, groupName, categoryName, playlistNa
   try {
     const url = `https://www.youtube.com/playlist?list=${playlistId}`;
     const { stdout: raw } = await execAsync(
-      `yt-dlp --flat-playlist --dump-json --no-warnings "${url}"`,
+      `python -m yt_dlp --flat-playlist --dump-json --no-warnings "${url}"`,
       { encoding: 'utf-8', maxBuffer: 50 * 1024 * 1024, timeout: 120000 }
     );
     playlistItems = raw.trim().split('\n').filter(Boolean).map(line => {
