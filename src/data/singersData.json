@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T15:19:14.968Z",
+  "lastUpdated": "2026-10-21T15:33:01.976Z",
   "singers": {
     "International": [
       {
@@ -16,7 +16,18 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLB63BM9qQL0g",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "eVli-tstM5E",
+            "title": "Sabrina Carpenter - Espresso",
+            "thumbnail": "https://img.youtube.com/vi/eVli-tstM5E/maxresdefault.jpg",
+            "duration": "3:21",
+            "durationSec": 201,
+            "date": "2024-04-12T07:00:07-07:00",
+            "resolution": "4K",
+            "viewCount": 696452142
+          }
+        ],
         "liveVideos": []
       },
       {
@@ -33,8 +44,40 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLPeN4ta-MgWI",
         "livePlaylistId": "PLQcT8UvDMVXI",
-        "videos": [],
-        "liveVideos": []
+        "videos": [
+          {
+            "youtubeLinkID": "XoiOOiuH8iI",
+            "title": "Tyla - Water (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/XoiOOiuH8iI/maxresdefault.jpg",
+            "duration": "3:40",
+            "durationSec": 220,
+            "date": "2023-10-05T21:00:07-07:00",
+            "resolution": "1080p",
+            "viewCount": 414752662
+          },
+          {
+            "youtubeLinkID": "xiZUf98A1Ts",
+            "title": "Tyla - CHANEL (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/xiZUf98A1Ts/maxresdefault.jpg",
+            "duration": "3:10",
+            "durationSec": 190,
+            "date": "2025-10-23T21:00:06-07:00",
+            "resolution": "4K",
+            "viewCount": 158675088
+          }
+        ],
+        "liveVideos": [
+          {
+            "youtubeLinkID": "88a7rr8KXcE",
+            "title": "Tyla - Water (Live) | Vevo DSCVR",
+            "thumbnail": "https://img.youtube.com/vi/88a7rr8KXcE/maxresdefault.jpg",
+            "duration": "3:21",
+            "durationSec": 201,
+            "date": "2023-08-02T09:00:09-07:00",
+            "resolution": "4K",
+            "viewCount": 6992282
+          }
+        ]
       },
       {
         "id": "1959397-dua-lipa",
@@ -50,7 +93,38 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLRljFr5iKIf0",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "TUVcZfQe-Kw",
+            "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/TUVcZfQe-Kw/maxresdefault.jpg",
+            "duration": "3:51",
+            "durationSec": 231,
+            "date": "2020-10-02T05:00:12-07:00",
+            "resolution": "1080p",
+            "viewCount": 1172922314
+          },
+          {
+            "youtubeLinkID": "k2qgadSvNyU",
+            "title": "Dua Lipa - New Rules (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/k2qgadSvNyU/maxresdefault.jpg",
+            "duration": "3:45",
+            "durationSec": 225,
+            "date": "2017-07-07T02:00:05-07:00",
+            "resolution": "4K",
+            "viewCount": 3341209363
+          },
+          {
+            "youtubeLinkID": "oygrmJFKYZY",
+            "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+            "duration": "3:02",
+            "durationSec": 182,
+            "date": "2019-11-01T06:00:11-07:00",
+            "resolution": "1080p",
+            "viewCount": 780359147
+          }
+        ],
         "liveVideos": []
       },
       {
@@ -67,7 +141,58 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLelnXXyQr0RM",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "LdH7aFjDzjI",
+            "title": "Bebe Rexha - I'm A Mess [Official Music Video]",
+            "thumbnail": "https://img.youtube.com/vi/LdH7aFjDzjI/maxresdefault.jpg",
+            "duration": "3:22",
+            "durationSec": 202,
+            "date": "2018-07-19T07:55:54-07:00",
+            "resolution": "1080p",
+            "viewCount": 468646301
+          },
+          {
+            "youtubeLinkID": "uEJuoEs1UxY",
+            "title": "Bebe Rexha - I Got You [Official Music Video]",
+            "thumbnail": "https://img.youtube.com/vi/uEJuoEs1UxY/maxresdefault.jpg",
+            "duration": "3:17",
+            "durationSec": 197,
+            "date": "2017-01-06T06:04:14-08:00",
+            "resolution": "1080p",
+            "viewCount": 411515187
+          },
+          {
+            "youtubeLinkID": "RnBT9uUYb1w",
+            "title": "Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)",
+            "thumbnail": "https://img.youtube.com/vi/RnBT9uUYb1w/maxresdefault.jpg",
+            "duration": "3:26",
+            "durationSec": 206,
+            "date": "2016-08-23T07:00:13-07:00",
+            "resolution": "1080p",
+            "viewCount": 949658093
+          },
+          {
+            "youtubeLinkID": "3XCVM3G3pns",
+            "title": "The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha",
+            "thumbnail": "https://img.youtube.com/vi/3XCVM3G3pns/maxresdefault.jpg",
+            "duration": "3:38",
+            "durationSec": 218,
+            "date": "2019-05-31T06:58:43-07:00",
+            "resolution": "1080p",
+            "viewCount": 126575500
+          },
+          {
+            "youtubeLinkID": "BinSLOxvZx0",
+            "title": "Bebe Rexha - Last Hurrah (Official Vertical Video)",
+            "thumbnail": "https://img.youtube.com/vi/BinSLOxvZx0/maxresdefault.jpg",
+            "duration": "2:33",
+            "durationSec": 153,
+            "date": "2019-03-22T10:00:02-07:00",
+            "resolution": "1080p",
+            "viewCount": 12802001
+          }
+        ],
         "liveVideos": []
       },
       {
@@ -84,7 +209,68 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLJvtul_L-JSs",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "qqob4D3BoZc",
+            "title": "Anne-Marie - Ciao Adios [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/qqob4D3BoZc/maxresdefault.jpg",
+            "duration": "3:30",
+            "durationSec": 210,
+            "date": "2017-03-09T07:48:09-08:00",
+            "resolution": "1080p",
+            "viewCount": 339059959
+          },
+          {
+            "youtubeLinkID": "jzD_yyEcp0M",
+            "title": "Marshmello & Anne-Marie - FRIENDS (Music Video) *OFFICIAL FRIENDZONE ANTHEM*",
+            "thumbnail": "https://img.youtube.com/vi/jzD_yyEcp0M/maxresdefault.jpg",
+            "duration": "3:52",
+            "durationSec": 232,
+            "date": "2018-02-16T04:41:36-08:00",
+            "resolution": "1080p",
+            "viewCount": 1146115308
+          },
+          {
+            "youtubeLinkID": "papuvlVeZg8",
+            "title": "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/papuvlVeZg8/maxresdefault.jpg",
+            "duration": "4:14",
+            "durationSec": 254,
+            "date": "2016-10-21T04:30:36-07:00",
+            "resolution": "1080p",
+            "viewCount": 3227219462
+          },
+          {
+            "youtubeLinkID": "egVAW6l_QU8",
+            "title": "Anne-Marie - BIRTHDAY [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/egVAW6l_QU8/maxresdefault.jpg",
+            "duration": "3:47",
+            "durationSec": 227,
+            "date": "2020-02-07T02:00:11-08:00",
+            "resolution": "1080p",
+            "viewCount": 56447556
+          },
+          {
+            "youtubeLinkID": "r3RXHOTMmLw",
+            "title": "Anne-Marie - Alarm [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/r3RXHOTMmLw/maxresdefault.jpg",
+            "duration": "4:06",
+            "durationSec": 246,
+            "date": "2016-05-20T04:07:51-07:00",
+            "resolution": "1080p",
+            "viewCount": 104138674
+          },
+          {
+            "youtubeLinkID": "Il-an3K9pjg",
+            "title": "Anne-Marie - 2002 [Official Video]",
+            "thumbnail": "https://img.youtube.com/vi/Il-an3K9pjg/maxresdefault.jpg",
+            "duration": "3:15",
+            "durationSec": 195,
+            "date": "2018-05-08T04:05:08-07:00",
+            "resolution": "1080p",
+            "viewCount": 1093177031
+          }
+        ],
         "liveVideos": []
       },
       {
@@ -101,7 +287,108 @@
         "knownForDepartment": "Acting",
         "youtubePlaylistId": "PLDcHjz5JGcQA",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "o_1aF54DO60",
+            "title": "Lana Del Rey - Young and Beautiful",
+            "thumbnail": "https://img.youtube.com/vi/o_1aF54DO60/maxresdefault.jpg",
+            "duration": "3:59",
+            "durationSec": 239,
+            "date": "2013-05-10T00:01:10-07:00",
+            "resolution": "1080p",
+            "viewCount": 841515564
+          },
+          {
+            "youtubeLinkID": "TdrL3QxjyVw",
+            "title": "Lana Del Rey - Summertime Sadness (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/TdrL3QxjyVw/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2013-08-23T03:38:53-07:00",
+            "resolution": "1080p",
+            "viewCount": 937908164
+          },
+          {
+            "youtubeLinkID": "oKxuiw3iMBE",
+            "title": "Lana Del Rey - West Coast",
+            "thumbnail": "https://img.youtube.com/vi/oKxuiw3iMBE/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2014-05-07T08:33:46-07:00",
+            "resolution": "1080p",
+            "viewCount": 258559536
+          },
+          {
+            "youtubeLinkID": "MiAoetOXKcY",
+            "title": "Lana Del Rey - Say Yes To Heaven (Official Audio)",
+            "thumbnail": "https://img.youtube.com/vi/MiAoetOXKcY/maxresdefault.jpg",
+            "duration": "3:30",
+            "durationSec": 210,
+            "date": "2023-05-18T21:00:09-07:00",
+            "resolution": "1080p",
+            "viewCount": 123096336
+          },
+          {
+            "youtubeLinkID": "3-NTv0CdFCk",
+            "title": "Lana Del Rey - Love",
+            "thumbnail": "https://img.youtube.com/vi/3-NTv0CdFCk/maxresdefault.jpg",
+            "duration": "4:55",
+            "durationSec": 295,
+            "date": "2017-02-20T08:05:00-08:00",
+            "resolution": "1080p",
+            "viewCount": 251560262
+          },
+          {
+            "youtubeLinkID": "vBHild0PiTE",
+            "title": "Lana Del Rey - Chemtrails Over The Country Club (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/vBHild0PiTE/maxresdefault.jpg",
+            "duration": "5:41",
+            "durationSec": 341,
+            "date": "2021-01-11T11:10:09-08:00",
+            "resolution": "1080p",
+            "viewCount": 62943577
+          },
+          {
+            "youtubeLinkID": "DCYmJDO2_IE",
+            "title": "Cinnamon Girl",
+            "thumbnail": "https://img.youtube.com/vi/DCYmJDO2_IE/maxresdefault.jpg",
+            "duration": "5:01",
+            "durationSec": 301,
+            "date": "2019-08-29T03:01:12-07:00",
+            "resolution": "1080p",
+            "viewCount": 232930851
+          },
+          {
+            "youtubeLinkID": "F4ELqraXx-U",
+            "title": "Lana Del Rey - White Mustang (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/F4ELqraXx-U/maxresdefault.jpg",
+            "duration": "4:42",
+            "durationSec": 282,
+            "date": "2017-09-13T08:00:01-07:00",
+            "resolution": "1080p",
+            "viewCount": 71835983
+          },
+          {
+            "youtubeLinkID": "lfUmmGpg5Kc",
+            "title": "Lana Del Rey - Brooklyn Baby (Official Music Video)",
+            "thumbnail": "https://img.youtube.com/vi/lfUmmGpg5Kc/maxresdefault.jpg",
+            "duration": "5:53",
+            "durationSec": 353,
+            "date": "2019-12-22T20:00:59-08:00",
+            "resolution": "1080p",
+            "viewCount": 6131559
+          },
+          {
+            "youtubeLinkID": "qolmz4FlnZ0",
+            "title": "Lana Del Rey - Doin' Time",
+            "thumbnail": "https://img.youtube.com/vi/qolmz4FlnZ0/maxresdefault.jpg",
+            "duration": "4:26",
+            "durationSec": 266,
+            "date": "2019-08-29T09:00:10-07:00",
+            "resolution": "1080p",
+            "viewCount": 187590591
+          }
+        ],
         "liveVideos": []
       }
     ],
@@ -120,7 +407,18 @@
         "knownForDepartment": "Sound",
         "youtubePlaylistId": "PLK6XYwvqSyho",
         "livePlaylistId": "",
-        "videos": [],
+        "videos": [
+          {
+            "youtubeLinkID": "QTLiVG2ln-k",
+            "title": "Annakiliye - Music Video | Smith Asher | Viky Pup | Dheekshitha | Albuquerque Records | Anirudh",
+            "thumbnail": "https://img.youtube.com/vi/QTLiVG2ln-k/maxresdefault.jpg",
+            "duration": "5:24",
+            "durationSec": 324,
+            "date": "2026-09-27T21:50:03-07:00",
+            "resolution": "4K",
+            "viewCount": 3129522
+          }
+        ],
         "liveVideos": []
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T15:19:12.569Z",
+  "lastUpdated": "2026-10-21T15:32:37.373Z",
   "movies": {
     "148284": {
       "tmdbId": 148284,
@@ -22,7 +22,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hai6CSCLxULO1RThjDP3lWAqOtQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/fvsSPqeVq4yhp7oZTGXA99uDQ1v.jpg",
       "youtubePlaylistId": "PLQYvxXGWNisI",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "rn6GmQStrTA",
+          "title": "Inumulo O Hrudayam 8K Video Song | Robo | Rajinikanth, Aishwarya Rai | A.R. Rahman",
+          "thumbnail": "https://img.youtube.com/vi/rn6GmQStrTA/maxresdefault.jpg",
+          "duration": "5:26",
+          "durationSec": 326,
+          "date": "2015-05-12T02:16:01-07:00",
+          "resolution": "8K",
+          "viewCount": 15772522
+        },
+        {
+          "youtubeLinkID": "eTbKM86DXuo",
+          "title": "Harima Harima Official Video Song 8K UHD | Robo | Rajinikanth, Aishwarya Rai | A.R.Rahman",
+          "thumbnail": "https://img.youtube.com/vi/eTbKM86DXuo/maxresdefault.jpg",
+          "duration": "5:23",
+          "durationSec": 323,
+          "date": "2026-09-03T04:30:21-07:00",
+          "resolution": "8K",
+          "viewCount": 676435
+        },
+        {
+          "youtubeLinkID": "GwBdFWv987Y",
+          "title": "Kilimanjaro Bhala Official Video Song | Robo | Rajinikanth, Aishwarya Rai | A.R.Rahman | 8K",
+          "thumbnail": "https://img.youtube.com/vi/GwBdFWv987Y/maxresdefault.jpg",
+          "duration": "5:46",
+          "durationSec": 346,
+          "date": "2026-09-09T22:30:44-07:00",
+          "resolution": "8K",
+          "viewCount": 1108803
+        },
+        {
+          "youtubeLinkID": "5CttV9rxhic",
+          "title": "Neelo Valapu Official Video Song | Robot | Rajinikanth | Aishwarya Rai | A.R.Rahman",
+          "thumbnail": "https://img.youtube.com/vi/5CttV9rxhic/maxresdefault.jpg",
+          "duration": "5:24",
+          "durationSec": 324,
+          "date": "2015-05-12T02:17:40-07:00",
+          "resolution": "1080p",
+          "viewCount": 20788710
+        }
+      ]
     },
     "262227": {
       "tmdbId": 262227,
@@ -44,7 +85,68 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/4DXhyKAo4Zn88byJloNT82EkKFF.jpg",
       "youtubePlaylistId": "PLA8mKU0Q1Avg",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "H5M_jL2d_Kg",
+          "title": "Boochade Boochade 8K Video Song | Race Gurram | Allu Arjun, Shruti Haasan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/H5M_jL2d_Kg/maxresdefault.jpg",
+          "duration": "4:10",
+          "durationSec": 250,
+          "date": "2026-05-15T04:32:06-07:00",
+          "resolution": "8K",
+          "viewCount": 377682
+        },
+        {
+          "youtubeLinkID": "QZhyLl8dLI8",
+          "title": "Down Down 8K Video Song | Race Gurram | Allu Arjun, Shruti Haasan | S.S. Thaman",
+          "thumbnail": "https://img.youtube.com/vi/QZhyLl8dLI8/maxresdefault.jpg",
+          "duration": "3:59",
+          "durationSec": 239,
+          "date": "2026-04-03T03:01:06-07:00",
+          "resolution": "8K",
+          "viewCount": 1198680
+        },
+        {
+          "youtubeLinkID": "BUV7KTSI584",
+          "title": "Cinema Choopistha Mama 8K Video Song | Race Gurram | Allu Arjun, Shruti Haasan | S.S. Thaman",
+          "thumbnail": "https://img.youtube.com/vi/BUV7KTSI584/maxresdefault.jpg",
+          "duration": "4:25",
+          "durationSec": 265,
+          "date": "2026-04-04T22:37:01-07:00",
+          "resolution": "8K",
+          "viewCount": 1035306
+        },
+        {
+          "youtubeLinkID": "B6KLh2G3dKM",
+          "title": "Sweety Sweety Video Song | Race Gurram | Allu Arjun, Shruti Haasan | S.S. Thaman",
+          "thumbnail": "https://img.youtube.com/vi/B6KLh2G3dKM/maxresdefault.jpg",
+          "duration": "4:23",
+          "durationSec": 263,
+          "date": "2026-04-08T05:35:31-07:00",
+          "resolution": "8K",
+          "viewCount": 993061
+        },
+        {
+          "youtubeLinkID": "hoUecvdMHD8",
+          "title": "Race Gurram Title Song 8K Video Song | Allu Arjun | Shruti Haasan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/hoUecvdMHD8/maxresdefault.jpg",
+          "duration": "4:28",
+          "durationSec": 268,
+          "date": "2026-04-24T06:03:46-07:00",
+          "resolution": "8K",
+          "viewCount": 85333
+        },
+        {
+          "youtubeLinkID": "tBH0DNmPAmU",
+          "title": "Race Gurram Video Songs 4K | Gala Gala Full Video Song | Allu Arjun | Shruti Haasan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/tBH0DNmPAmU/maxresdefault.jpg",
+          "duration": "4:13",
+          "durationSec": 253,
+          "date": "2018-04-20T04:30:01-07:00",
+          "resolution": "4K",
+          "viewCount": 1254229
+        }
+      ]
     },
     "410994": {
       "tmdbId": 410994,
@@ -67,7 +169,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/bNyJEcHmtZbw2G58StKGwhGXzex.jpg",
       "youtubePlaylistId": "PLJXLHBT5B0MQ",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "_96E3pQ7csw",
+          "title": "Dhruva Dhruva 8K Video Song | Dhruva | Ram Charan, Rakul Preet | Hiphop Tamizha | Surender Reddy",
+          "thumbnail": "https://img.youtube.com/vi/_96E3pQ7csw/maxresdefault.jpg",
+          "duration": "3:37",
+          "durationSec": 217,
+          "date": "2026-04-03T05:14:06-07:00",
+          "resolution": "8K",
+          "viewCount": 554607
+        },
+        {
+          "youtubeLinkID": "sl2X-e956Ts",
+          "title": "Pareshanura 8K Video Song | Dhruva | Ram Charan, Rakul Preet | Hiphop Tamizha | Surender Reddy",
+          "thumbnail": "https://img.youtube.com/vi/sl2X-e956Ts/maxresdefault.jpg",
+          "duration": "3:02",
+          "durationSec": 182,
+          "date": "2026-03-28T07:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 1397915
+        },
+        {
+          "youtubeLinkID": "rZT5cTiTokA",
+          "title": "Neethoney Dance Full Video Song | Dhruva Full Video Songs | Ram Charan,Rakul Preet | HipHopTamizha",
+          "thumbnail": "https://img.youtube.com/vi/rZT5cTiTokA/maxresdefault.jpg",
+          "duration": "3:37",
+          "durationSec": 217,
+          "date": "2017-02-04T03:28:54-08:00",
+          "resolution": "1080p",
+          "viewCount": 64182296
+        },
+        {
+          "youtubeLinkID": "1FMDlWOu-AI",
+          "title": "Choosa Choosa Full Video Song | Dhruva Full Video Songs | Ram Charan,Rakul Preet | HipHopTamizha",
+          "thumbnail": "https://img.youtube.com/vi/1FMDlWOu-AI/maxresdefault.jpg",
+          "duration": "4:22",
+          "durationSec": 262,
+          "date": "2017-01-31T04:36:22-08:00",
+          "resolution": "1080p",
+          "viewCount": 75341457
+        }
+      ]
     },
     "496331": {
       "tmdbId": 496331,
@@ -90,7 +233,38 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/9oAqll65ytlOBLzZwUwkmo5RwIK.jpg",
       "youtubePlaylistId": "PLC7pPme0sH-Q",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "P7yRYiBiV3g",
+          "title": "Kesariya 8K/4K Music Video | Arijit Singh | Ranbir Kapoor | Alia Bhatt | Pritam | Brahmāstra",
+          "thumbnail": "https://img.youtube.com/vi/P7yRYiBiV3g/maxresdefault.jpg",
+          "duration": "4:11",
+          "durationSec": 251,
+          "date": "2025-10-15T03:30:20-07:00",
+          "resolution": "8K",
+          "viewCount": 14422446
+        },
+        {
+          "youtubeLinkID": "hXYiAUlQ5Yk",
+          "title": "Deva Deva - 8K/4K Music Video | Ranbir Kapoor, Alia Bhatt | Brahmastra | Arijit Singh, Jonita Gandhi",
+          "thumbnail": "https://img.youtube.com/vi/hXYiAUlQ5Yk/maxresdefault.jpg",
+          "duration": "5:07",
+          "durationSec": 307,
+          "date": "2025-07-04T03:30:36-07:00",
+          "resolution": "8K",
+          "viewCount": 4316220
+        },
+        {
+          "youtubeLinkID": "nEVFCV2EwfE",
+          "title": "Rasiya - 8K/4K Music Video | Ranbir, Alia | Brahmāstra | Pritam | Tushar Joshi | Shreya Ghoshal",
+          "thumbnail": "https://img.youtube.com/vi/nEVFCV2EwfE/maxresdefault.jpg",
+          "duration": "1:45",
+          "durationSec": 105,
+          "date": "2025-10-20T03:30:35-07:00",
+          "resolution": "8K",
+          "viewCount": 88072
+        }
+      ]
     },
     "599925": {
       "tmdbId": 599925,
@@ -114,7 +288,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
       "youtubePlaylistId": "PLNbR7PPS-z2U",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "8zIi3Jq4kuc",
+          "title": "Ranjha 8K/4K Music Video | Kiara Advani | Sidharth Malhotra | Shershaah songs | B Praak | Jasleen R",
+          "thumbnail": "https://img.youtube.com/vi/8zIi3Jq4kuc/maxresdefault.jpg",
+          "duration": "3:41",
+          "durationSec": 221,
+          "date": "2024-10-18T04:40:48-07:00",
+          "resolution": "8K",
+          "viewCount": 3843294
+        },
+        {
+          "youtubeLinkID": "oDkZEay6H6k",
+          "title": "Raataan Lambiyan🌙 - Shershaah|Sidharth-Kiara|Tanishk B| Jubin Nautiyal |Asees|4K ✨",
+          "thumbnail": "https://img.youtube.com/vi/oDkZEay6H6k/maxresdefault.jpg",
+          "duration": "3:51",
+          "durationSec": 231,
+          "date": "2024-03-15T00:36:38-07:00",
+          "resolution": "4K",
+          "viewCount": 7434269
+        },
+        {
+          "youtubeLinkID": "ZoGYpAID4TY",
+          "title": "Mann Bharryaa 2.0 - 4K Music Video | Shershaah | Sidharth Malhotra | Kiara Advani | B Praak | Jaani",
+          "thumbnail": "https://img.youtube.com/vi/ZoGYpAID4TY/maxresdefault.jpg",
+          "duration": "3:44",
+          "durationSec": 224,
+          "date": "2024-07-17T04:33:46-07:00",
+          "resolution": "4K",
+          "viewCount": 28125669
+        },
+        {
+          "youtubeLinkID": "kjuA629s0J0",
+          "title": "Kabhii Tumhhe - 4K Video | Sidharth Malhotra, Kiara Advani | Darshan Raval | Javed-Mohsin |Shershaah",
+          "thumbnail": "https://img.youtube.com/vi/kjuA629s0J0/maxresdefault.jpg",
+          "duration": "2:23",
+          "durationSec": 143,
+          "date": "2024-08-02T06:00:49-07:00",
+          "resolution": "4K",
+          "viewCount": 494407
+        }
+      ]
     },
     "628241": {
       "tmdbId": 628241,
@@ -138,7 +353,68 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2rzORJaegE2bbKNVkQXbZCeV0BP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/5SDMPORslLXaYPx7S1kRqsBJYI3.jpg",
       "youtubePlaylistId": "PLS8zl6Nc8AI8",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "rOirJKJoE0o",
+          "title": "Butta Bomma Video Song 8K | Ala Vaikunthapurramuloo | Allu Arjun, Pooja Hegde | Thaman S | Trivikram",
+          "thumbnail": "https://img.youtube.com/vi/rOirJKJoE0o/maxresdefault.jpg",
+          "duration": "3:34",
+          "durationSec": 214,
+          "date": "2026-09-14T07:30:02-07:00",
+          "resolution": "8K",
+          "viewCount": 4119383
+        },
+        {
+          "youtubeLinkID": "yWG5bYvKARE",
+          "title": "Sittharala Sirapadu Full Video Song | AlaVaikunthapurramuloo | Allu Arjun || Trivikram | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/yWG5bYvKARE/maxresdefault.jpg",
+          "duration": "3:44",
+          "durationSec": 224,
+          "date": "2024-11-25T07:01:06-08:00",
+          "resolution": "4K",
+          "viewCount": 24952487
+        },
+        {
+          "youtubeLinkID": "gdt-yIgm2zc",
+          "title": "OMG Daddy Full Video Song (4K) | AlaVaikunthapurramuloo | Allu Arjun | Trivikram | Thaman S |#AA19",
+          "thumbnail": "https://img.youtube.com/vi/gdt-yIgm2zc/maxresdefault.jpg",
+          "duration": "3:52",
+          "durationSec": 232,
+          "date": "2020-02-23T04:26:46-08:00",
+          "resolution": "4K",
+          "viewCount": 61289618
+        },
+        {
+          "youtubeLinkID": "_nly3TM01AU",
+          "title": "#AlaVaikunthapurramloo (Title Song) Telugu Video Song | Allu Arjun | Trivikram | Thaman S | #AA19",
+          "thumbnail": "https://img.youtube.com/vi/_nly3TM01AU/maxresdefault.jpg",
+          "duration": "2:11",
+          "durationSec": 131,
+          "date": "2020-02-27T02:35:03-08:00",
+          "resolution": "4K",
+          "viewCount": 46605480
+        },
+        {
+          "youtubeLinkID": "OCg6BWlAXSw",
+          "title": "Samajavaragamana Video Song (4K) (Telugu) | AlaVaikunthapurramuloo | Allu Arjun | Trivikram | Thaman",
+          "thumbnail": "https://img.youtube.com/vi/OCg6BWlAXSw/maxresdefault.jpg",
+          "duration": "3:49",
+          "durationSec": 229,
+          "date": "2020-02-16T02:35:42-08:00",
+          "resolution": "4K",
+          "viewCount": 255010182
+        },
+        {
+          "youtubeLinkID": "Bg8Yb9zGYyA",
+          "title": "Ramuloo Ramulaa Full Video | Allu Arjun, Pooja Hegde | Ala Vaikunthapurramuloo | Trivikram | Thaman",
+          "thumbnail": "https://img.youtube.com/vi/Bg8Yb9zGYyA/maxresdefault.jpg",
+          "duration": "4:34",
+          "durationSec": 274,
+          "date": "2020-03-03T02:35:01-08:00",
+          "resolution": "4K",
+          "viewCount": 801370471
+        }
+      ]
     },
     "653221": {
       "tmdbId": 653221,
@@ -160,7 +436,78 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/rMNzpbruCuBmYPWhaNLrKOlNKcu.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/mrupP5GXx8O4dmhUTTjxND4TMEw.jpg",
       "youtubePlaylistId": "PLFzvDu6y_xac",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "epAFDEJImrU",
+          "title": "Darshana - Official Video Song | Hridayam | Pranav | Darshana | Vineeth | Hesham | Merryland",
+          "thumbnail": "https://img.youtube.com/vi/epAFDEJImrU/maxresdefault.jpg",
+          "duration": "4:52",
+          "durationSec": 292,
+          "date": "2021-10-25T05:30:10-07:00",
+          "resolution": "1080p",
+          "viewCount": 196760815
+        },
+        {
+          "youtubeLinkID": "xyUxkUPe2xg",
+          "title": "Nagumo Video Song |Hridayam |Pranav |Darshana |Kalyani |Hesham |Arvind Venugopal|Tyagaraja|Merryland",
+          "thumbnail": "https://img.youtube.com/vi/xyUxkUPe2xg/maxresdefault.jpg",
+          "duration": "2:51",
+          "durationSec": 171,
+          "date": "2022-02-25T05:30:12-08:00",
+          "resolution": "1080p",
+          "viewCount": 31582722
+        },
+        {
+          "youtubeLinkID": "ftIPUowtX2Q",
+          "title": "Pottu Thotta Pournami Video Song |Hridayam |Pranav |Kalyani |Hesham |Sachin |Megha |Kaithapram",
+          "thumbnail": "https://img.youtube.com/vi/ftIPUowtX2Q/maxresdefault.jpg",
+          "duration": "2:59",
+          "durationSec": 179,
+          "date": "2022-02-04T20:30:12-08:00",
+          "resolution": "1080p",
+          "viewCount": 42513147
+        },
+        {
+          "youtubeLinkID": "lZL2K3ewRYM",
+          "title": "Puthiyoru Lokam Video Song | Hridayam |Pranav |Kalyani |Darshana |Hesham |Vimal |Bhadra |Kaithapram",
+          "thumbnail": "https://img.youtube.com/vi/lZL2K3ewRYM/maxresdefault.jpg",
+          "duration": "3:50",
+          "durationSec": 230,
+          "date": "2022-01-29T04:30:12-08:00",
+          "resolution": "1080p",
+          "viewCount": 26638993
+        },
+        {
+          "youtubeLinkID": "faLdQRF2DQk",
+          "title": "Nagumo Revival Video Song | Pranav | Kalyani | Darshana | Vineeth | Tyagaraja | Hesham Abdul Wahab",
+          "thumbnail": "https://img.youtube.com/vi/faLdQRF2DQk/maxresdefault.jpg",
+          "duration": "2:53",
+          "durationSec": 173,
+          "date": "2023-01-20T21:30:20-08:00",
+          "resolution": "4K",
+          "viewCount": 4086410
+        },
+        {
+          "youtubeLinkID": "N_zXtXla2-c",
+          "title": "Onakka Munthiri Video Song | Extended Cut | Hridayam | Pranav, Kalyani | Vineeth | Divya |Hesham",
+          "thumbnail": "https://img.youtube.com/vi/N_zXtXla2-c/maxresdefault.jpg",
+          "duration": "2:15",
+          "durationSec": 135,
+          "date": "2022-05-17T06:30:13-07:00",
+          "resolution": "4K",
+          "viewCount": 42382446
+        },
+        {
+          "youtubeLinkID": "u0RXWL2JGNE",
+          "title": "Onakka Munthiri Video Song | Hridayam | Pranav | Kalyani | Vineeth |Divya |Hesham |Visakh |Merryland",
+          "thumbnail": "https://img.youtube.com/vi/u0RXWL2JGNE/maxresdefault.jpg",
+          "duration": "2:07",
+          "durationSec": 127,
+          "date": "2022-03-17T05:30:13-07:00",
+          "resolution": "1080p",
+          "viewCount": 19335749
+        }
+      ]
     },
     "784696": {
       "tmdbId": 784696,
@@ -183,7 +530,38 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jFwdKKDmgzKjZGFnSJma7I5XMpk.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/jNcf5p8y7CieOu9uHYzTVm1Qgtm.jpg",
       "youtubePlaylistId": "PLY4ZAM9Lx1Fk",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "lcfcTbEppQM",
+          "title": "Kalaavathi - 8K Video Song | Sarkaru Vaari Paata | Mahesh Babu, Keerthy Suresh | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/lcfcTbEppQM/maxresdefault.jpg",
+          "duration": "5:07",
+          "durationSec": 307,
+          "date": "2025-06-17T03:30:26-07:00",
+          "resolution": "8K",
+          "viewCount": 11663909
+        },
+        {
+          "youtubeLinkID": "VtQZEFOP1Cs",
+          "title": "Ma Ma Mahesha - 8K Video Song | Sarkaru Vaari Paata | Mahesh Babu | Keerthy Suresh | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/VtQZEFOP1Cs/maxresdefault.jpg",
+          "duration": "3:53",
+          "durationSec": 233,
+          "date": "2025-06-25T04:30:34-07:00",
+          "resolution": "8K",
+          "viewCount": 23554410
+        },
+        {
+          "youtubeLinkID": "Aopz1VusvRU",
+          "title": "Murari Vaa - 8K Video | Sarkaru Vaari Paata | Mahesh Babu, Keerthy Suresh | Thaman S | Parasuram",
+          "thumbnail": "https://img.youtube.com/vi/Aopz1VusvRU/maxresdefault.jpg",
+          "duration": "3:46",
+          "durationSec": 226,
+          "date": "2025-10-17T05:30:23-07:00",
+          "resolution": "8K",
+          "viewCount": 1465967
+        }
+      ]
     },
     "848116": {
       "tmdbId": 848116,
@@ -207,7 +585,78 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/bPrIYmPFFf7iOnbroy3bpN8iiK1.jpg",
       "youtubePlaylistId": "PLFq2YxXYtaSU",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "ETMul5GVk_Y",
+          "title": "Tum Kya Mile - 8K Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer, Alia, Pritam, Arijit S, Shreya",
+          "thumbnail": "https://img.youtube.com/vi/ETMul5GVk_Y/maxresdefault.jpg",
+          "duration": "5:27",
+          "durationSec": 327,
+          "date": "2025-06-25T00:08:24-07:00",
+          "resolution": "8K",
+          "viewCount": 22207117
+        },
+        {
+          "youtubeLinkID": "wCIM7cAUHHo",
+          "title": "Ve Kamleya - 8K Video | Rocky Aur Rani Kii Prem Kahaani, Ranveer, Alia, Pritam, Arijit S, Shreya G",
+          "thumbnail": "https://img.youtube.com/vi/wCIM7cAUHHo/maxresdefault.jpg",
+          "duration": "3:00",
+          "durationSec": 180,
+          "date": "2025-06-26T03:28:23-07:00",
+          "resolution": "8K",
+          "viewCount": 4054968
+        },
+        {
+          "youtubeLinkID": "4vFw1dzXQDs",
+          "title": "Kudmayi (Film Version) - 8k Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer | Alia | Shahid|Pritam",
+          "thumbnail": "https://img.youtube.com/vi/4vFw1dzXQDs/maxresdefault.jpg",
+          "duration": "4:27",
+          "durationSec": 267,
+          "date": "2025-07-17T02:45:23-07:00",
+          "resolution": "8K",
+          "viewCount": 14049818
+        },
+        {
+          "youtubeLinkID": "vee_P6pIv_E",
+          "title": "What Jhumka? - 8K Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer, Alia, Pritam, Arijit, Jonita",
+          "thumbnail": "https://img.youtube.com/vi/vee_P6pIv_E/maxresdefault.jpg",
+          "duration": "3:33",
+          "durationSec": 213,
+          "date": "2025-06-12T02:59:25-07:00",
+          "resolution": "8K",
+          "viewCount": 22229903
+        },
+        {
+          "youtubeLinkID": "fO2U1Hr1skY",
+          "title": "Saregama Carvaan Medley - 8K Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer S, Alia Bhatt, Pritam",
+          "thumbnail": "https://img.youtube.com/vi/fO2U1Hr1skY/maxresdefault.jpg",
+          "duration": "5:15",
+          "durationSec": 315,
+          "date": "2025-07-22T01:12:15-07:00",
+          "resolution": "8K",
+          "viewCount": 621798
+        },
+        {
+          "youtubeLinkID": "brcViM4E8As",
+          "title": "Heart Throb - 8K Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer Singh | Pritam, Amitabh, Dev Negi",
+          "thumbnail": "https://img.youtube.com/vi/brcViM4E8As/maxresdefault.jpg",
+          "duration": "4:44",
+          "durationSec": 284,
+          "date": "2025-11-30T21:26:22-08:00",
+          "resolution": "8K",
+          "viewCount": 920875
+        },
+        {
+          "youtubeLinkID": "Km8Iwx9whFw",
+          "title": "Dhindhora Baje Re - 8K Video | Rocky Aur Rani Kii Prem Kahaani | Ranveer, Alia,Darshan,Bhoomi,Pritam",
+          "thumbnail": "https://img.youtube.com/vi/Km8Iwx9whFw/maxresdefault.jpg",
+          "duration": "4:22",
+          "durationSec": 262,
+          "date": "2025-08-04T02:28:29-07:00",
+          "resolution": "8K",
+          "viewCount": 944463
+        }
+      ]
     },
     "858485": {
       "tmdbId": 858485,
@@ -230,7 +679,78 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
       "youtubePlaylistId": "PLDmX4QJbwKrk",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "ILLo7cjohiE",
+          "title": "Kantara - Varaha Roopam 8K Video Song | Rishab Shetty | Ajaneesh Loknath | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/ILLo7cjohiE/maxresdefault.jpg",
+          "duration": "4:43",
+          "durationSec": 283,
+          "date": "2026-02-27T04:30:00-08:00",
+          "resolution": "8K",
+          "viewCount": 16740689
+        },
+        {
+          "youtubeLinkID": "qWfEhrcB6uw",
+          "title": "Kantara - Singara Siriye 8K Video Song | Rishab Shetty | Ajaneesh Loknath | Hombale Films",
+          "thumbnail": "https://img.youtube.com/vi/qWfEhrcB6uw/maxresdefault.jpg",
+          "duration": "5:14",
+          "durationSec": 314,
+          "date": "2026-02-17T05:30:56-08:00",
+          "resolution": "8K",
+          "viewCount": 2601327
+        },
+        {
+          "youtubeLinkID": "3ocX9df0krI",
+          "title": "Brahmakalasha Kannada 8K Video Song  - Kantara Chapter 1 | Rishab Shetty, Rukmini | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/3ocX9df0krI/maxresdefault.jpg",
+          "duration": "5:14",
+          "durationSec": 314,
+          "date": "2025-11-10T04:30:04-08:00",
+          "resolution": "8K",
+          "viewCount": 17357476
+        },
+        {
+          "youtubeLinkID": "cCtWQtESPbI",
+          "title": "Varaha Roopam 8K Video Song- Kantara Chapter 1 | Rishab Shetty | Ajaneesh Loknath | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/cCtWQtESPbI/maxresdefault.jpg",
+          "duration": "2:47",
+          "durationSec": 167,
+          "date": "2026-01-02T04:31:02-08:00",
+          "resolution": "8K",
+          "viewCount": 2096947
+        },
+        {
+          "youtubeLinkID": "3OCBdugaNEM",
+          "title": "Madana Mana Mohini Kannada 8K Video Song- Kantara Chapter 1 | Rishab Shetty, Rukmini | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/3OCBdugaNEM/maxresdefault.jpg",
+          "duration": "3:35",
+          "durationSec": 215,
+          "date": "2025-11-20T04:30:11-08:00",
+          "resolution": "8K",
+          "viewCount": 1745358
+        },
+        {
+          "youtubeLinkID": "2eEenfugDKs",
+          "title": "Agriculture 8K Video Song (Kannada) -Kantara Chapter 1 | Rishab Shetty, Rukmini | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/2eEenfugDKs/maxresdefault.jpg",
+          "duration": "2:21",
+          "durationSec": 141,
+          "date": "2025-12-06T04:30:09-08:00",
+          "resolution": "8K",
+          "viewCount": 136667
+        },
+        {
+          "youtubeLinkID": "DO8GPvtY988",
+          "title": "Karma 8K Video Song (Kannada) -Kantara Chapter 1 | Rishab Shetty, Rukmini Vasanth | Hombale Music",
+          "thumbnail": "https://img.youtube.com/vi/DO8GPvtY988/maxresdefault.jpg",
+          "duration": "4:11",
+          "durationSec": 251,
+          "date": "2026-01-23T04:30:00-08:00",
+          "resolution": "8K",
+          "viewCount": 51601
+        }
+      ]
     },
     "894803": {
       "tmdbId": 894803,
@@ -253,7 +773,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/28EqsZDeEAy4VMZfrYbiyJZznKn.jpg",
       "youtubePlaylistId": "PLRMzOH93RHEg",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "2zR4TNTXB6I",
+          "title": "Inthandham 8K/4K Video Song - Sita Ramam (Telugu) | Dulquer | Mrunal | Vishal | Hanu Raghavapudi",
+          "thumbnail": "https://img.youtube.com/vi/2zR4TNTXB6I/maxresdefault.jpg",
+          "duration": "4:07",
+          "durationSec": 247,
+          "date": "2025-09-30T07:30:09-07:00",
+          "resolution": "8K",
+          "viewCount": 8125752
+        },
+        {
+          "youtubeLinkID": "TQomlyTYfrI",
+          "title": "Kaanunna Kalyanam 8K/4K Video Song | Sita Ramam (Telugu) | Dulquer | Mrunal | Vishal Chandrashekhar",
+          "thumbnail": "https://img.youtube.com/vi/TQomlyTYfrI/maxresdefault.jpg",
+          "duration": "3:32",
+          "durationSec": 212,
+          "date": "2025-12-26T06:30:22-08:00",
+          "resolution": "8K",
+          "viewCount": 142935
+        },
+        {
+          "youtubeLinkID": "r5scE4htrSU",
+          "title": "Oh Sita Hey Rama 8K/4K Video Song - Sita Ramam (Telugu) | Dulquer | Vishal | Hanu Raghavapudi",
+          "thumbnail": "https://img.youtube.com/vi/r5scE4htrSU/maxresdefault.jpg",
+          "duration": "3:46",
+          "durationSec": 226,
+          "date": "2025-12-06T06:30:46-08:00",
+          "resolution": "8K",
+          "viewCount": 282499
+        },
+        {
+          "youtubeLinkID": "1LswC7uX43Y",
+          "title": "EVARINI ADAGANU 8K/4K Video Song - Sita Ramam (Telugu) | Dulquer | Mrunal | Vishal Chandrasekhar",
+          "thumbnail": "https://img.youtube.com/vi/1LswC7uX43Y/maxresdefault.jpg",
+          "duration": "2:41",
+          "durationSec": 161,
+          "date": "2026-01-08T06:30:04-08:00",
+          "resolution": "8K",
+          "viewCount": 215184
+        }
+      ]
     },
     "1022453": {
       "tmdbId": 1022453,
@@ -277,7 +838,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
       "youtubePlaylistId": "PLdRS9AouhFHM",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "hLXWkFKY4XI",
+          "title": "Nache Nache - 8K Video | The RajaSaab | Prabhas, Malavika Mohan, Nidhhi Agerwal, Riddhi | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/hLXWkFKY4XI/maxresdefault.jpg",
+          "duration": "3:28",
+          "durationSec": 208,
+          "date": "2026-03-02T01:54:08-08:00",
+          "resolution": "8K",
+          "viewCount": 3346206
+        },
+        {
+          "youtubeLinkID": "2nbj5UT-1Jc",
+          "title": "Full Video: Sahana Sahana | The Rajasaab | Prabhas | Nidhhi Agerwal | Maruthi | Thaman S | Vishal M",
+          "thumbnail": "https://img.youtube.com/vi/2nbj5UT-1Jc/maxresdefault.jpg",
+          "duration": "4:18",
+          "durationSec": 258,
+          "date": "2026-01-23T21:30:02-08:00",
+          "resolution": "4K",
+          "viewCount": 19944532
+        },
+        {
+          "youtubeLinkID": "bkSa4J15WNc",
+          "title": "Full Video: Raje Yuvaraje Song - The Rajasaab | Prabhas | Nidhhi Agerwal | Thaman S | Maruthi",
+          "thumbnail": "https://img.youtube.com/vi/bkSa4J15WNc/maxresdefault.jpg",
+          "duration": "4:13",
+          "durationSec": 253,
+          "date": "2026-01-19T07:30:32-08:00",
+          "resolution": "4K",
+          "viewCount": 1556132
+        },
+        {
+          "youtubeLinkID": "eVzQL5rQMms",
+          "title": "Full Video: Rebel Saab (Telugu) - The RajaSaab | Prabhas | Maruthi  | Thaman S | Vishwa Prasad",
+          "thumbnail": "https://img.youtube.com/vi/eVzQL5rQMms/maxresdefault.jpg",
+          "duration": "3:39",
+          "durationSec": 219,
+          "date": "2026-01-25T04:31:02-08:00",
+          "resolution": "4K",
+          "viewCount": 6133887
+        }
+      ]
     },
     "1057265": {
       "tmdbId": 1057265,
@@ -299,7 +901,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "youtubePlaylistId": "PLb-IzessMFgA",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "v4iaUbL3aos",
+          "title": "8k: Hellallallo Video | Peddi | Ram Charan | Buchi Babu | Shruthi Haasan | Janhvi | AR Rahman",
+          "thumbnail": "https://img.youtube.com/vi/v4iaUbL3aos/maxresdefault.jpg",
+          "duration": "4:00",
+          "durationSec": 240,
+          "date": "2026-08-10T07:30:20-07:00",
+          "resolution": "8K",
+          "viewCount": 665965
+        },
+        {
+          "youtubeLinkID": "G6KuVPWqJDI",
+          "title": "8K: Massa Massa Video | Peddi | Ram Charan | Buchi Babu | Janhvi | AR Rahman |Vishal Mishra",
+          "thumbnail": "https://img.youtube.com/vi/G6KuVPWqJDI/maxresdefault.jpg",
+          "duration": "4:23",
+          "durationSec": 263,
+          "date": "2026-08-12T07:30:13-07:00",
+          "resolution": "8K",
+          "viewCount": 677969
+        },
+        {
+          "youtubeLinkID": "XvxWGgHYbZc",
+          "title": "8K : Rai Rai Raa Raa Video | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
+          "thumbnail": "https://img.youtube.com/vi/XvxWGgHYbZc/maxresdefault.jpg",
+          "duration": "4:44",
+          "durationSec": 284,
+          "date": "2026-08-09T07:30:36-07:00",
+          "resolution": "8K",
+          "viewCount": 1121658
+        },
+        {
+          "youtubeLinkID": "pj2Ux8ZATsQ",
+          "title": "8K: Chikiri Chikiri Video | Peddi | Ram Charan | Janhvi | Buchi Babu | AR Rahman | Mohit Chauhan",
+          "thumbnail": "https://img.youtube.com/vi/pj2Ux8ZATsQ/maxresdefault.jpg",
+          "duration": "4:38",
+          "durationSec": 278,
+          "date": "2026-08-08T07:30:18-07:00",
+          "resolution": "8K",
+          "viewCount": 764402
+        }
+      ]
     },
     "1080365": {
       "tmdbId": 1080365,
@@ -321,7 +964,78 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/oWOJ4VMyF92IEcTmrQO0xFDqeyk.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/lBJR69jrQ8I84irRexFfO70v0EA.jpg",
       "youtubePlaylistId": "PLdc9KDhiSU3U",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "-6h-ycYVbgQ",
+          "title": "Guns and Roses 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Emraan Hashmi | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/-6h-ycYVbgQ/maxresdefault.jpg",
+          "duration": "1:42",
+          "durationSec": 102,
+          "date": "2026-03-01T06:30:00-08:00",
+          "resolution": "8K",
+          "viewCount": 1139417
+        },
+        {
+          "youtubeLinkID": "uMsgoBhcpCg",
+          "title": "Firestorm 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Sujeeth | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/uMsgoBhcpCg/maxresdefault.jpg",
+          "duration": "4:06",
+          "durationSec": 246,
+          "date": "2026-02-20T06:30:54-08:00",
+          "resolution": "8K",
+          "viewCount": 1095631
+        },
+        {
+          "youtubeLinkID": "gWpl8ADxNsc",
+          "title": "Hungry Cheetah 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/gWpl8ADxNsc/maxresdefault.jpg",
+          "duration": "3:42",
+          "durationSec": 222,
+          "date": "2026-03-06T06:30:28-08:00",
+          "resolution": "8K",
+          "viewCount": 2445010
+        },
+        {
+          "youtubeLinkID": "bF_6ndNptU8",
+          "title": "Suvvi Suvvi 8K 60FPS Video Song | They Call Him OG | Pawan Kalyan, Priyanka Mohan  | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/bF_6ndNptU8/maxresdefault.jpg",
+          "duration": "4:36",
+          "durationSec": 276,
+          "date": "2026-02-01T06:30:28-08:00",
+          "resolution": "8K",
+          "viewCount": 1803275
+        },
+        {
+          "youtubeLinkID": "eHk-QjHFj6c",
+          "title": "Streets of fire 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/eHk-QjHFj6c/maxresdefault.jpg",
+          "duration": "1:47",
+          "durationSec": 107,
+          "date": "2026-03-10T07:30:36-07:00",
+          "resolution": "8K",
+          "viewCount": 405190
+        },
+        {
+          "youtubeLinkID": "M_5F02R3aH4",
+          "title": "Trance of OMI 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Emraan Hashmi | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/M_5F02R3aH4/maxresdefault.jpg",
+          "duration": "2:45",
+          "durationSec": 165,
+          "date": "2026-03-17T07:30:16-07:00",
+          "resolution": "8K",
+          "viewCount": 631539
+        },
+        {
+          "youtubeLinkID": "oor9od6nXBM",
+          "title": "Kiss Kiss Bang Bang 8K 60 FPS Video Song | They Call Him OG | Pawan Kalyan | Thaman S",
+          "thumbnail": "https://img.youtube.com/vi/oor9od6nXBM/maxresdefault.jpg",
+          "duration": "3:29",
+          "durationSec": 209,
+          "date": "2026-02-17T06:30:43-08:00",
+          "resolution": "8K",
+          "viewCount": 594877
+        }
+      ]
     },
     "1122030": {
       "tmdbId": 1122030,
@@ -343,7 +1057,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
       "youtubePlaylistId": "PLCg_nYalynsU",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "q5HK8lXE_aE",
+          "title": "Massacre Song | Music Video | ALPHA | Alia Bhatt, Sharvari | Rohansh & Abeer, Shilpa, Jonita, Kausar",
+          "thumbnail": "https://img.youtube.com/vi/q5HK8lXE_aE/maxresdefault.jpg",
+          "duration": "2:55",
+          "durationSec": 175,
+          "date": "2026-07-06T22:30:06-07:00",
+          "resolution": "4K",
+          "viewCount": 11529228
+        },
+        {
+          "youtubeLinkID": "YwlndOd4xLE",
+          "title": "Champagne Song | ALPHA | Sharvari | Rohansh & Abeer | Akasa | Anvitaa Dutt",
+          "thumbnail": "https://img.youtube.com/vi/YwlndOd4xLE/maxresdefault.jpg",
+          "duration": "2:53",
+          "durationSec": 173,
+          "date": "2026-07-13T22:30:35-07:00",
+          "resolution": "4K",
+          "viewCount": 6313455
+        },
+        {
+          "youtubeLinkID": "0-Vgg04M3m0",
+          "title": "Agni Song | ALPHA | Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol | Rohansh & Abeer | Ranj",
+          "thumbnail": "https://img.youtube.com/vi/0-Vgg04M3m0/maxresdefault.jpg",
+          "duration": "2:00",
+          "durationSec": 120,
+          "date": "2026-07-16T03:30:25-07:00",
+          "resolution": "4K",
+          "viewCount": 928218
+        },
+        {
+          "youtubeLinkID": "lR5aQMAl36k",
+          "title": "Haaniya Song | ALPHA | Alia Bhatt, Sharvari | Rohansh & Abeer | Vishal Dadlani | Kumaar",
+          "thumbnail": "https://img.youtube.com/vi/lR5aQMAl36k/maxresdefault.jpg",
+          "duration": "3:05",
+          "durationSec": 185,
+          "date": "2026-07-09T22:30:21-07:00",
+          "resolution": "4K",
+          "viewCount": 6933345
+        }
+      ]
     },
     "1187058": {
       "tmdbId": 1187058,
@@ -365,7 +1120,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ylYdXu0SM79Qs7vOz6q7mBxanVD.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/4Yr1efAiQ55YdV9R7N4WOntpmZ5.jpg",
       "youtubePlaylistId": "PLPO9YUx7R-XA",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "-YGehldC-PA",
+          "title": "Taras - 8K Video | Munjya | Sharvari & Abhay | Sachin-Jigar, Jasmine Sandlas | Amitabh Bhattacharya",
+          "thumbnail": "https://img.youtube.com/vi/-YGehldC-PA/maxresdefault.jpg",
+          "duration": "2:47",
+          "durationSec": 167,
+          "date": "2026-05-14T19:30:01-07:00",
+          "resolution": "8K",
+          "viewCount": 7705501
+        },
+        {
+          "youtubeLinkID": "6d5SS0gS5bU",
+          "title": "Tainu Khabar Nahi - Arijit Singh | Munjya | Sharvari, Abhay Verma| Sachin-Jigar,Amitabh Bhattacharya",
+          "thumbnail": "https://img.youtube.com/vi/6d5SS0gS5bU/maxresdefault.jpg",
+          "duration": "2:39",
+          "durationSec": 159,
+          "date": "2024-06-01T07:30:27-07:00",
+          "resolution": "4K",
+          "viewCount": 208304013
+        }
+      ]
     },
     "1226354": {
       "tmdbId": 1226354,
@@ -388,7 +1164,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uLPUsH3Fwe6mAU7n6WpMSDLdYCm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/A5FkracCv0UeQuRPtM0dcXlUzz2.jpg",
       "youtubePlaylistId": "PLMW9GpfXlr9c",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "UMFR2nAcego",
+          "title": "Pardesiya (8K/4K Music Video) Sidharth M, Janhvi K |Sachin-Jigar, Sonu Nigam, Krishnakali, Amitabh B",
+          "thumbnail": "https://img.youtube.com/vi/UMFR2nAcego/maxresdefault.jpg",
+          "duration": "2:54",
+          "durationSec": 174,
+          "date": "2026-01-12T21:30:33-08:00",
+          "resolution": "8K",
+          "viewCount": 705294
+        },
+        {
+          "youtubeLinkID": "csVPrZhr3NQ",
+          "title": "Bheegi Saree (8K Music Video) Sidharth M, Janhvi K | Sachin-Jigar, Adnan Sami, Shreya G, Amitabh B",
+          "thumbnail": "https://img.youtube.com/vi/csVPrZhr3NQ/maxresdefault.jpg",
+          "duration": "2:53",
+          "durationSec": 173,
+          "date": "2026-01-19T21:30:20-08:00",
+          "resolution": "8K",
+          "viewCount": 898922
+        },
+        {
+          "youtubeLinkID": "imaTkoWPkR8",
+          "title": "Danger (8K Music Video) | Sidharth Malhotra, Janhvi K | Sachin-Jigar, Vishal D, Parvati M, Amitabh B",
+          "thumbnail": "https://img.youtube.com/vi/imaTkoWPkR8/maxresdefault.jpg",
+          "duration": "2:35",
+          "durationSec": 155,
+          "date": "2026-01-15T21:30:01-08:00",
+          "resolution": "8K",
+          "viewCount": 446936
+        },
+        {
+          "youtubeLinkID": "lJL7ASAukyo",
+          "title": "Sunn Mere Yaar Ve (8K Video) Sidharth M, Janhvi K |Sachin-Jigar, Aditya R, Amitabh B | Param Sundari",
+          "thumbnail": "https://img.youtube.com/vi/lJL7ASAukyo/maxresdefault.jpg",
+          "duration": "2:36",
+          "durationSec": 156,
+          "date": "2026-01-28T21:30:17-08:00",
+          "resolution": "8K",
+          "viewCount": 52936
+        }
+      ]
     },
     "1232219": {
       "tmdbId": 1232219,
@@ -411,7 +1228,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/pXs3GE1LzDO2xUX2S4sO6iBAA5H.jpg",
       "youtubePlaylistId": "PLfTyaip9O3BQ",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "nXQqtd2KMHs",
+          "title": "Nallanchu Thellacheera 8K Video | Mr Bachchan | Ravi Teja | Bhagyashri | Mickey J Meyer | Harish S",
+          "thumbnail": "https://img.youtube.com/vi/nXQqtd2KMHs/maxresdefault.jpg",
+          "duration": "3:38",
+          "durationSec": 218,
+          "date": "2026-06-28T03:30:13-07:00",
+          "resolution": "8K",
+          "viewCount": 1046972
+        },
+        {
+          "youtubeLinkID": "XWv6fKw7O2E",
+          "title": "Sitar 8K Video | Mr. Bachchan | Ravi Teja | Bhagyashri Borse | Mickey J Meyer | Harish Shankar S",
+          "thumbnail": "https://img.youtube.com/vi/XWv6fKw7O2E/maxresdefault.jpg",
+          "duration": "4:09",
+          "durationSec": 249,
+          "date": "2026-06-25T03:30:03-07:00",
+          "resolution": "8K",
+          "viewCount": 410088
+        },
+        {
+          "youtubeLinkID": "EGqdMZrkVj0",
+          "title": "Jikki 8K Video Song | Mr Bachchan | Ravi Teja, Bhagyashri B | Mickey J Meyer | Harish Shankar S",
+          "thumbnail": "https://img.youtube.com/vi/EGqdMZrkVj0/maxresdefault.jpg",
+          "duration": "3:28",
+          "durationSec": 208,
+          "date": "2026-06-27T02:30:16-07:00",
+          "resolution": "8K",
+          "viewCount": 153586
+        },
+        {
+          "youtubeLinkID": "ULKSfKuo9sI",
+          "title": "Reppal Dappul 8K Video | Mr Bachchan | Ravi Teja | Bhagyashri B | Mickey J Meyer | Harish Shankar S",
+          "thumbnail": "https://img.youtube.com/vi/ULKSfKuo9sI/maxresdefault.jpg",
+          "duration": "4:35",
+          "durationSec": 275,
+          "date": "2026-06-26T03:30:18-07:00",
+          "resolution": "8K",
+          "viewCount": 186863
+        }
+      ]
     },
     "1291608": {
       "tmdbId": 1291608,
@@ -434,7 +1292,98 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
       "youtubePlaylistId": "PLQNy6KH3hDzQ",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "MxIEUzBJn8U",
+          "title": "Gehra Hua - 8K Video | Dhurandhar | Ranveer Singh, Sara A, Shashwat Sachdev, Arijit Singh, Irshad K",
+          "thumbnail": "https://img.youtube.com/vi/MxIEUzBJn8U/maxresdefault.jpg",
+          "duration": "3:29",
+          "durationSec": 209,
+          "date": "2026-02-02T23:00:11-08:00",
+          "resolution": "8K",
+          "viewCount": 48196527
+        },
+        {
+          "youtubeLinkID": "v5jVX0QYwQo",
+          "title": "Shararat - 8K Video | Dhurandhar | Ranveer Singh, Shashwat S, Jasmine, Madhubanti, Ayesha, Krystle",
+          "thumbnail": "https://img.youtube.com/vi/v5jVX0QYwQo/maxresdefault.jpg",
+          "duration": "3:47",
+          "durationSec": 227,
+          "date": "2026-05-04T00:23:07-07:00",
+          "resolution": "8K",
+          "viewCount": 157514654
+        },
+        {
+          "youtubeLinkID": "JWux9POAQzU",
+          "title": "Naal Nachna - 8K Video | Dhurandhar | Ranveer Singh, Sara Arjun, Shashwat Sachdev, Afsana Khan,Reble",
+          "thumbnail": "https://img.youtube.com/vi/JWux9POAQzU/maxresdefault.jpg",
+          "duration": "1:58",
+          "durationSec": 118,
+          "date": "2026-03-06T21:37:07-08:00",
+          "resolution": "8K",
+          "viewCount": 3497994
+        },
+        {
+          "youtubeLinkID": "BWFr1xlkgL0",
+          "title": "Lutt Le Gaya - 8K Video | Dhurandhar | Ranveer Singh | Akshaye Khanna | Shashwat Sachdev",
+          "thumbnail": "https://img.youtube.com/vi/BWFr1xlkgL0/maxresdefault.jpg",
+          "duration": "2:05",
+          "durationSec": 125,
+          "date": "2026-03-12T00:41:37-07:00",
+          "resolution": "8K",
+          "viewCount": 12219319
+        },
+        {
+          "youtubeLinkID": "7UG4YTQCgkw",
+          "title": "Ramba Ho - 8K Video | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Madhubanti Bagchi",
+          "thumbnail": "https://img.youtube.com/vi/7UG4YTQCgkw/maxresdefault.jpg",
+          "duration": "2:08",
+          "durationSec": 128,
+          "date": "2026-04-26T22:40:55-07:00",
+          "resolution": "8K",
+          "viewCount": 896704
+        },
+        {
+          "youtubeLinkID": "8SHaqaYSY34",
+          "title": "Run Down The City - Monica - 8K | Dhurandhar | Ranveer Singh, Sara A, Asha Bhosle, Shashwat Sachdev",
+          "thumbnail": "https://img.youtube.com/vi/8SHaqaYSY34/maxresdefault.jpg",
+          "duration": "1:55",
+          "durationSec": 115,
+          "date": "2026-04-12T20:30:10-07:00",
+          "resolution": "8K",
+          "viewCount": 2624469
+        },
+        {
+          "youtubeLinkID": "amdOdzmAbSk",
+          "title": "Ishq Jalakar - Karvaan - 8K Video | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Shahzad Ali",
+          "thumbnail": "https://img.youtube.com/vi/amdOdzmAbSk/maxresdefault.jpg",
+          "duration": "2:32",
+          "durationSec": 152,
+          "date": "2026-03-18T00:30:01-07:00",
+          "resolution": "8K",
+          "viewCount": 11779127
+        },
+        {
+          "youtubeLinkID": "s9CIz6UCDw4",
+          "title": "Ez-Ez - 8K Video | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Diljit Dosanjh, Hanumankind, Raj R",
+          "thumbnail": "https://img.youtube.com/vi/s9CIz6UCDw4/maxresdefault.jpg",
+          "duration": "2:53",
+          "durationSec": 173,
+          "date": "2026-05-11T22:45:19-07:00",
+          "resolution": "8K",
+          "viewCount": 866056
+        },
+        {
+          "youtubeLinkID": "rn1BQ25RjcM",
+          "title": "Teri Ni Kararan - 8K Video | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Diljit Dosanjh",
+          "thumbnail": "https://img.youtube.com/vi/rn1BQ25RjcM/maxresdefault.jpg",
+          "duration": "2:33",
+          "durationSec": 153,
+          "date": "2026-02-10T22:13:07-08:00",
+          "resolution": "8K",
+          "viewCount": 1212263
+        }
+      ]
     },
     "1384514": {
       "tmdbId": 1384514,
@@ -457,7 +1406,38 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
       "youtubePlaylistId": "PLGtCcc3BkObw",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "1IKsJiMLGu0",
+          "title": "Samjho Na - THE VVAAN | Sidharth Malhotra & Tamannaah | Jubin Nautiyal, Tanishk B, Suvarna, Manoj M",
+          "thumbnail": "https://img.youtube.com/vi/1IKsJiMLGu0/maxresdefault.jpg",
+          "duration": "4:24",
+          "durationSec": 264,
+          "date": "2026-09-03T05:31:53-07:00",
+          "resolution": "4K",
+          "viewCount": 38092837
+        },
+        {
+          "youtubeLinkID": "FCRb4kjnRx4",
+          "title": "Chhathi Maiya - The VVAAN | Sidharth Malhotra & Tamannaah | Vishal Mishra | Kaushal K | Chinni P",
+          "thumbnail": "https://img.youtube.com/vi/FCRb4kjnRx4/maxresdefault.jpg",
+          "duration": "3:31",
+          "durationSec": 211,
+          "date": "2026-09-10T00:41:02-07:00",
+          "resolution": "4K",
+          "viewCount": 56218603
+        },
+        {
+          "youtubeLinkID": "W9mU_iKY0KI",
+          "title": "Thummak Thummak - THE VVAAN | Sidharth Malhotra & Tamannaah | Dev Negi, Akasa, Tanishk B, Shabbir A",
+          "thumbnail": "https://img.youtube.com/vi/W9mU_iKY0KI/maxresdefault.jpg",
+          "duration": "2:32",
+          "durationSec": 152,
+          "date": "2026-09-21T02:30:04-07:00",
+          "resolution": "1080p",
+          "viewCount": 28694825
+        }
+      ]
     },
     "1389379": {
       "tmdbId": 1389379,
@@ -480,7 +1460,18 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
       "youtubePlaylistId": "PLZkLqkOs1B2U",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "zoBTw-1vzyY",
+          "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
+          "thumbnail": "https://img.youtube.com/vi/zoBTw-1vzyY/maxresdefault.jpg",
+          "duration": "5:30",
+          "durationSec": 330,
+          "date": "2026-09-22T01:04:08-07:00",
+          "resolution": "1080p",
+          "viewCount": 50632728
+        }
+      ]
     },
     "1392469": {
       "tmdbId": 1392469,
@@ -502,7 +1493,58 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
       "youtubePlaylistId": "PLAfQLhhHCEKA",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "eh_5uIWqh2M",
+          "title": "Leher (Official Video) Shahid, Kriti, Rashmika | Pritam, Arijit Singh, Amitabh B | Cocktail 2",
+          "thumbnail": "https://img.youtube.com/vi/eh_5uIWqh2M/maxresdefault.jpg",
+          "duration": "2:54",
+          "durationSec": 174,
+          "date": "2026-06-23T20:46:35-07:00",
+          "resolution": "4K",
+          "viewCount": 10380825
+        },
+        {
+          "youtubeLinkID": "7jMzMXpSOjs",
+          "title": "Mashooqa (Video) Shahid, Kriti, Rashmika | Pritam, Mahmood, Amitabh B, Raghav C, Ruaa K | Cocktail 2",
+          "thumbnail": "https://img.youtube.com/vi/7jMzMXpSOjs/maxresdefault.jpg",
+          "duration": "2:56",
+          "durationSec": 176,
+          "date": "2026-05-19T01:15:10-07:00",
+          "resolution": "4K",
+          "viewCount": 55742144
+        },
+        {
+          "youtubeLinkID": "0RxUcKE13ZI",
+          "title": "Bandhu 2.0 | Shahid, Kriti, Rashmika| Pritam | Kavita | Neeraj | Irshad K | Cocktail 2 | 19th June",
+          "thumbnail": "https://img.youtube.com/vi/0RxUcKE13ZI/maxresdefault.jpg",
+          "duration": "3:06",
+          "durationSec": 186,
+          "date": "2026-06-17T01:50:17-07:00",
+          "resolution": "4K",
+          "viewCount": 60187184
+        },
+        {
+          "youtubeLinkID": "JBOkML4Ld9g",
+          "title": "Vallah (Official Video) Shahid, Kriti, Rashmika | Pritam, Bayanni, Harrdy S, Amitabh B | Cocktail 2",
+          "thumbnail": "https://img.youtube.com/vi/JBOkML4Ld9g/maxresdefault.jpg",
+          "duration": "2:17",
+          "durationSec": 137,
+          "date": "2026-06-08T22:41:02-07:00",
+          "resolution": "4K",
+          "viewCount": 17110132
+        },
+        {
+          "youtubeLinkID": "D1F-6BbhYAo",
+          "title": "Jag Se Laaj (Video) | Shahid, Kriti, Rashmika | Pritam, Shilpa, Aarvan, WiSH, Amitabh B | Cocktail 2",
+          "thumbnail": "https://img.youtube.com/vi/D1F-6BbhYAo/maxresdefault.jpg",
+          "duration": "3:34",
+          "durationSec": 214,
+          "date": "2026-06-19T22:30:09-07:00",
+          "resolution": "4K",
+          "viewCount": 7633167
+        }
+      ]
     },
     "1407437": {
       "tmdbId": 1407437,
@@ -526,7 +1568,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/e1lNI9dZKar0JN9iNuDeUhCZcwL.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/f6vtDzjT5dnwytOmmzWjdFVzYSL.jpg",
       "youtubePlaylistId": "PLUU0Qj4LdbSY",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "__YIIytAnI8",
+          "title": "Nuvvunte Chaley 8K Video | Andhra King Taluka | Ram Pothineni | Bhagyashri Borse | Mahesh Babu P",
+          "thumbnail": "https://img.youtube.com/vi/__YIIytAnI8/maxresdefault.jpg",
+          "duration": "3:29",
+          "durationSec": 209,
+          "date": "2026-04-20T23:30:31-07:00",
+          "resolution": "8K",
+          "viewCount": 1126536
+        },
+        {
+          "youtubeLinkID": "PmuQDnWT-WI",
+          "title": "Chinni Gundelo 8K Video | Andhra King Taluka | Ram Pothineni | Bhagyashri Borse | Mahesh Babu P",
+          "thumbnail": "https://img.youtube.com/vi/PmuQDnWT-WI/maxresdefault.jpg",
+          "duration": "3:26",
+          "durationSec": 206,
+          "date": "2026-04-18T06:30:34-07:00",
+          "resolution": "8K",
+          "viewCount": 15650682
+        }
+      ]
     },
     "1408162": {
       "tmdbId": 1408162,
@@ -549,7 +1612,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
       "youtubePlaylistId": "PLcFEfwPOCOwM",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "C1LN4cWjMl0",
+          "title": "Pattampoochi Full Video Song | Vishwanath and Sons | Suriya, Mamitha Baiju | G.V. Prakash | Venky",
+          "thumbnail": "https://img.youtube.com/vi/C1LN4cWjMl0/maxresdefault.jpg",
+          "duration": "4:40",
+          "durationSec": 280,
+          "date": "2026-08-28T03:35:06-07:00",
+          "resolution": "4K",
+          "viewCount": 28685872
+        },
+        {
+          "youtubeLinkID": "zyRHh9SFAnc",
+          "title": "The Wedding Song (Tamil) Full Video Song | Vishwanath and Sons | Suriya | Mamitha Baiju | GV Prakash",
+          "thumbnail": "https://img.youtube.com/vi/zyRHh9SFAnc/maxresdefault.jpg",
+          "duration": "4:21",
+          "durationSec": 261,
+          "date": "2026-08-31T04:04:28-07:00",
+          "resolution": "4K",
+          "viewCount": 5766549
+        }
+      ]
     },
     "1408170": {
       "tmdbId": 1408170,
@@ -572,7 +1656,58 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
       "youtubePlaylistId": "PLLQM2eVZ57Rw",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "us61eVD7Tps",
+          "title": "Full Video: Yetta Yetta | Lenin | Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor A",
+          "thumbnail": "https://img.youtube.com/vi/us61eVD7Tps/maxresdefault.jpg",
+          "duration": "3:22",
+          "durationSec": 202,
+          "date": "2026-07-26T22:29:06-07:00",
+          "resolution": "4K",
+          "viewCount": 2126349
+        },
+        {
+          "youtubeLinkID": "EjnJ0T5qqVM",
+          "title": "Full Video: Soul of Lenin | Lenin | Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor A",
+          "thumbnail": "https://img.youtube.com/vi/EjnJ0T5qqVM/maxresdefault.jpg",
+          "duration": "2:19",
+          "durationSec": 139,
+          "date": "2026-08-01T05:44:06-07:00",
+          "resolution": "4K",
+          "viewCount": 804005
+        },
+        {
+          "youtubeLinkID": "JCnJqPeUEdc",
+          "title": "Full Video: VaareVaa VaareVaa | Lenin | Akhil Akkineni,Bhagyashri B | Thaman S | Murali Kishor A",
+          "thumbnail": "https://img.youtube.com/vi/JCnJqPeUEdc/maxresdefault.jpg",
+          "duration": "3:09",
+          "durationSec": 189,
+          "date": "2026-07-23T05:29:06-07:00",
+          "resolution": "4K",
+          "viewCount": 6983253
+        },
+        {
+          "youtubeLinkID": "8r0QQKuNmDY",
+          "title": "Bangaram Video | Lenin | Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor Abburu",
+          "thumbnail": "https://img.youtube.com/vi/8r0QQKuNmDY/maxresdefault.jpg",
+          "duration": "1:54",
+          "durationSec": 114,
+          "date": "2026-07-30T05:29:06-07:00",
+          "resolution": "4K",
+          "viewCount": 1493398
+        },
+        {
+          "youtubeLinkID": "qg1DHoFbn0I",
+          "title": "Full Video: Jaya Mangalam | Lenin | Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor A",
+          "thumbnail": "https://img.youtube.com/vi/qg1DHoFbn0I/maxresdefault.jpg",
+          "duration": "3:23",
+          "durationSec": 203,
+          "date": "2026-07-29T03:29:06-07:00",
+          "resolution": "4K",
+          "viewCount": 4797972
+        }
+      ]
     },
     "1439713": {
       "tmdbId": 1439713,
@@ -595,7 +1730,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/w0HMauXnYBlFk3iikMLa7cPjR30.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/x7jZHALUR58sAzEw0Ms9ohfapP8.jpg",
       "youtubePlaylistId": "PLMgyDXfkX4FA",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "A4anPJkdVTY",
+          "title": "Meesaala Pilla 8K Video | Mana ShankaraVaraPrasad Garu | Chiranjeevi | Nayanthara | Bheems Music",
+          "thumbnail": "https://img.youtube.com/vi/A4anPJkdVTY/maxresdefault.jpg",
+          "duration": "4:06",
+          "durationSec": 246,
+          "date": "2026-04-17T22:30:04-07:00",
+          "resolution": "8K",
+          "viewCount": 9116022
+        },
+        {
+          "youtubeLinkID": "KLuw63KH6R4",
+          "title": "Sasirekha 8K Video | Mana ShankaraVaraPrasad Garu | Chiranjeevi, Nayanthara | Bheems | Anil Ravipudi",
+          "thumbnail": "https://img.youtube.com/vi/KLuw63KH6R4/maxresdefault.jpg",
+          "duration": "3:50",
+          "durationSec": 230,
+          "date": "2026-04-23T01:30:10-07:00",
+          "resolution": "8K",
+          "viewCount": 1402430
+        }
+      ]
     },
     "1442975": {
       "tmdbId": 1442975,
@@ -618,7 +1774,38 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/oBv9eCzvutDV9Bt1IwRjMFfuS3L.jpg",
       "youtubePlaylistId": "PLSZ6AMuTkEmo",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "LHCbyu_gs2I",
+          "title": "Vaammo Vaayyo - Video | Bhartha Mahasayulaku Wignyapthi|Ravi Teja,Ashika R,Dimple H|Bheems Ceciroleo",
+          "thumbnail": "https://img.youtube.com/vi/LHCbyu_gs2I/maxresdefault.jpg",
+          "duration": "2:59",
+          "durationSec": 179,
+          "date": "2026-01-27T03:28:07-08:00",
+          "resolution": "4K",
+          "viewCount": 12814357
+        },
+        {
+          "youtubeLinkID": "GkURbRx8DJo",
+          "title": "Addham Mundhu - Video | Bhartha Mahasayulaku Wignyapthi | Ravi Teja, Dimple Hayathi|Bheems Ceciroleo",
+          "thumbnail": "https://img.youtube.com/vi/GkURbRx8DJo/maxresdefault.jpg",
+          "duration": "2:24",
+          "durationSec": 144,
+          "date": "2026-01-29T03:28:07-08:00",
+          "resolution": "4K",
+          "viewCount": 5599824
+        },
+        {
+          "youtubeLinkID": "--vhNen6sME",
+          "title": "Bella Bella - Video Song | Bhartha Mahasayulaku Wignyapthi | Ravi Teja | Ashika R | Bheems Ceciroleo",
+          "thumbnail": "https://img.youtube.com/vi/--vhNen6sME/maxresdefault.jpg",
+          "duration": "3:19",
+          "durationSec": 199,
+          "date": "2026-02-02T03:30:07-08:00",
+          "resolution": "4K",
+          "viewCount": 2071077
+        }
+      ]
     },
     "1582770": {
       "tmdbId": 1582770,
@@ -641,7 +1828,128 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
       "youtubePlaylistId": "PLcoanGfkolsc",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "1zlLw7tQTk0",
+          "title": "Aari Aari - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat Sachdev | Bombay Rockers",
+          "thumbnail": "https://img.youtube.com/vi/1zlLw7tQTk0/maxresdefault.jpg",
+          "duration": "2:42",
+          "durationSec": 162,
+          "date": "2026-05-15T04:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 3116701
+        },
+        {
+          "youtubeLinkID": "SJ73cJXbPhE",
+          "title": "Vaari Jaavan - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat Sachdev,Jyoti,Jasmine",
+          "thumbnail": "https://img.youtube.com/vi/SJ73cJXbPhE/maxresdefault.jpg",
+          "duration": "3:37",
+          "durationSec": 217,
+          "date": "2026-05-16T22:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 11921846
+        },
+        {
+          "youtubeLinkID": "7eZZYdK2VW0",
+          "title": "Jaan Se Guzarte Hain - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat S, Khan Saab",
+          "thumbnail": "https://img.youtube.com/vi/7eZZYdK2VW0/maxresdefault.jpg",
+          "duration": "3:00",
+          "durationSec": 180,
+          "date": "2026-05-15T22:30:07-07:00",
+          "resolution": "8K",
+          "viewCount": 5642731
+        },
+        {
+          "youtubeLinkID": "qK0FW9ydzSY",
+          "title": "Hum Pyaar Karne Wale - 8K Video | Dhurandhar The Revenge| Ranveer S| Shashwat,Anuradha,Udit,Qveen",
+          "thumbnail": "https://img.youtube.com/vi/qK0FW9ydzSY/maxresdefault.jpg",
+          "duration": "2:13",
+          "durationSec": 133,
+          "date": "2026-05-18T04:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 3243077
+        },
+        {
+          "youtubeLinkID": "yeq1yUi9q3Y",
+          "title": "Main Aur Tu - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat Sachdev | Jasmine S",
+          "thumbnail": "https://img.youtube.com/vi/yeq1yUi9q3Y/maxresdefault.jpg",
+          "duration": "2:59",
+          "durationSec": 179,
+          "date": "2026-05-19T04:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 920194
+        },
+        {
+          "youtubeLinkID": "fbzxWM97iHQ",
+          "title": "Rang De Lal (Oye Oye) - 8K Video | Dhurandhar The Revenge|Shashwat Sachdev,Kalyanji-Anandji,Jasmine",
+          "thumbnail": "https://img.youtube.com/vi/fbzxWM97iHQ/maxresdefault.jpg",
+          "duration": "3:22",
+          "durationSec": 202,
+          "date": "2026-05-26T04:31:36-07:00",
+          "resolution": "8K",
+          "viewCount": 571911
+        },
+        {
+          "youtubeLinkID": "mSc-CSiqIqI",
+          "title": "Wild Ride - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat Sachdev | Ellisar",
+          "thumbnail": "https://img.youtube.com/vi/mSc-CSiqIqI/maxresdefault.jpg",
+          "duration": "2:40",
+          "durationSec": 160,
+          "date": "2026-05-21T04:31:02-07:00",
+          "resolution": "8K",
+          "viewCount": 1599614
+        },
+        {
+          "youtubeLinkID": "E45J_yOyUcA",
+          "title": "Phir Se - 8K Video | Dhurandhar The Revenge | Ranveer Singh | Shashwat Sachdev,Arijit S,Irshad K",
+          "thumbnail": "https://img.youtube.com/vi/E45J_yOyUcA/maxresdefault.jpg",
+          "duration": "3:48",
+          "durationSec": 228,
+          "date": "2026-05-18T22:30:07-07:00",
+          "resolution": "8K",
+          "viewCount": 9289482
+        },
+        {
+          "youtubeLinkID": "fFVId5BvPeI",
+          "title": "Jaiye Sajana - 8K Video: Dhurandhar The Revenge | Ranveer Singh | Shashwat S,Satinder S,Jasmine S",
+          "thumbnail": "https://img.youtube.com/vi/fFVId5BvPeI/maxresdefault.jpg",
+          "duration": "2:30",
+          "durationSec": 150,
+          "date": "2026-05-14T22:30:23-07:00",
+          "resolution": "8K",
+          "viewCount": 4796515
+        },
+        {
+          "youtubeLinkID": "uWdfkn_ZBzk",
+          "title": "Aakhri Ishq - 8K Video | Dhurandhar The Revenge | Ranveer Singh|Shashwat Sachdev,Jubin N,Irshad K",
+          "thumbnail": "https://img.youtube.com/vi/uWdfkn_ZBzk/maxresdefault.jpg",
+          "duration": "3:38",
+          "durationSec": 218,
+          "date": "2026-05-20T02:30:09-07:00",
+          "resolution": "8K",
+          "viewCount": 2961960
+        },
+        {
+          "youtubeLinkID": "vSQwYb4aSWc",
+          "title": "Tere Ishq Ne - 8K Video | Dhurandhar The Revenge | Ranveer Singh |Shashwat Sachdev,Jyoti N,Kumaar",
+          "thumbnail": "https://img.youtube.com/vi/vSQwYb4aSWc/maxresdefault.jpg",
+          "duration": "3:49",
+          "durationSec": 229,
+          "date": "2026-05-25T04:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 334736
+        },
+        {
+          "youtubeLinkID": "HcLdTujpQJc",
+          "title": "Didi (Sher-E-Baloch) - 8K Video | Dhurandhar The Revenge | Ranveer Singh,Shashwat Sachdev,Khaled",
+          "thumbnail": "https://img.youtube.com/vi/HcLdTujpQJc/maxresdefault.jpg",
+          "duration": "2:21",
+          "durationSec": 141,
+          "date": "2026-05-16T04:30:02-07:00",
+          "resolution": "8K",
+          "viewCount": 1190092
+        }
+      ]
     },
     "811941-devara-part-1": {
       "tmdbId": 811941,
@@ -663,7 +1971,48 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
       "youtubePlaylistId": "PLE3PpP0ju53w",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "_0ak7rWPlmU",
+          "title": "Chuttamalle [8K] Video - Devara Part 1 | NTR | Janhvi Kapoor | Anirudh | Shilpa Rao | Koratala Siva",
+          "thumbnail": "https://img.youtube.com/vi/_0ak7rWPlmU/maxresdefault.jpg",
+          "duration": "3:37",
+          "durationSec": 217,
+          "date": "2025-06-12T03:45:06-07:00",
+          "resolution": "8K",
+          "viewCount": 19141935
+        },
+        {
+          "youtubeLinkID": "iST7U0l4BJE",
+          "title": "Ayudha Pooja 8K Video | Devara | NTR | Saif Ali Khan | Koratala Siva | Anirudh Ravichander",
+          "thumbnail": "https://img.youtube.com/vi/iST7U0l4BJE/maxresdefault.jpg",
+          "duration": "3:06",
+          "durationSec": 186,
+          "date": "2026-03-20T04:30:44-07:00",
+          "resolution": "8K",
+          "viewCount": 751005
+        },
+        {
+          "youtubeLinkID": "2So45J1dAu4",
+          "title": "Full Video: Daavudi [8K] - దావూదీ | Devara | NTR | Janhvi K | Koratala Siva | Anirudh Ravichander",
+          "thumbnail": "https://img.youtube.com/vi/2So45J1dAu4/maxresdefault.jpg",
+          "duration": "3:06",
+          "durationSec": 186,
+          "date": "2025-06-25T05:30:06-07:00",
+          "resolution": "8K",
+          "viewCount": 5001860
+        },
+        {
+          "youtubeLinkID": "g44VQxMcFH4",
+          "title": "Full Video: Fear Song | Devara | NTR | Koratala Siva | Anirudh Ravichander",
+          "thumbnail": "https://img.youtube.com/vi/g44VQxMcFH4/maxresdefault.jpg",
+          "duration": "2:46",
+          "durationSec": 166,
+          "date": "2024-10-29T06:29:07-07:00",
+          "resolution": "4K",
+          "viewCount": 35546282
+        }
+      ]
     },
     "781732-animal": {
       "tmdbId": 781732,
@@ -686,7 +2035,121 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
       "youtubePlaylistId": "PLA_2cKlGawhc",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "p93O-umBg98",
+          "title": "Animal: Pehle Bhi Main 8K Video Song | Ranbir Kapoor,Tripti Dimri | Sandeep V | Vishal M | Bhushan K",
+          "thumbnail": "https://img.youtube.com/vi/p93O-umBg98/maxresdefault.jpg",
+          "duration": "4:09",
+          "durationSec": 249,
+          "date": "2025-06-18T05:02:00-07:00",
+          "resolution": "8K",
+          "viewCount": 3001980
+        },
+        {
+          "youtubeLinkID": "8A1XPxaeoZA",
+          "title": "ANIMAL: Saari Duniya Jalaa Denge (Film Version) 8K |Ranbir K,Bobby D,Sandeep,B Praak,Jaani,Bhushan K",
+          "thumbnail": "https://img.youtube.com/vi/8A1XPxaeoZA/maxresdefault.jpg",
+          "duration": "5:46",
+          "durationSec": 346,
+          "date": "2026-08-19T22:30:21-07:00",
+          "resolution": "8K",
+          "viewCount": 6625900
+        },
+        {
+          "youtubeLinkID": "XvRsfPO63jQ",
+          "title": "ANIMAL: Hua Main 8K Video | Ranbir Kapoor, Rashmika M | Sandeep V | Pritam ,Raghav,Manoj | Bhushan K",
+          "thumbnail": "https://img.youtube.com/vi/XvRsfPO63jQ/maxresdefault.jpg",
+          "duration": "4:35",
+          "durationSec": 275,
+          "date": "2025-10-11T04:30:34-07:00",
+          "resolution": "8K",
+          "viewCount": 1036731
+        },
+        {
+          "youtubeLinkID": "9W6CSt6-PIU",
+          "title": "Animal: Satranga [8K] - Video | Ranbir K,Rashmika|Sandeep|Arijit,Shreyas,Siddharth-Garima|Bhushan K",
+          "thumbnail": "https://img.youtube.com/vi/9W6CSt6-PIU/maxresdefault.jpg",
+          "duration": "4:31",
+          "durationSec": 271,
+          "date": "2025-06-17T22:30:05-07:00",
+          "resolution": "8K",
+          "viewCount": 1306043
+        },
+        {
+          "youtubeLinkID": "KsEMAXNXnO4",
+          "title": "ANIMAL: ABRAR’S ENTRY - JAMAL KUDU 8K🔥 | Bobby Deol | Ranbir Kapoor | Sandeep Vanga | Bhushan Kumar",
+          "thumbnail": "https://img.youtube.com/vi/KsEMAXNXnO4/maxresdefault.jpg",
+          "duration": "2:13",
+          "durationSec": 133,
+          "date": "2025-10-03T22:30:09-07:00",
+          "resolution": "8K",
+          "viewCount": 1880920
+        },
+        {
+          "youtubeLinkID": "0YxadsmzcEI",
+          "title": "ANIMAL: Kashmir 8K Full Video | Ranbir Kapoor | Rashmika M | Sandeep V | Shreya G,Manan B |Bhushan K",
+          "thumbnail": "https://img.youtube.com/vi/0YxadsmzcEI/maxresdefault.jpg",
+          "duration": "3:37",
+          "durationSec": 217,
+          "date": "2025-12-24T05:27:07-08:00",
+          "resolution": "8K",
+          "viewCount": 98744
+        }
+      ]
+    },
+    "1112426-2": {
+      "tmdbId": 1112426,
+      "title": "Stree 2",
+      "originalTitle": "स्त्री 2: सरकटे का आतंक",
+      "language": "Hindi",
+      "year": 2024,
+      "releaseDate": "2024-08-15",
+      "overview": "Following the events of 'Stree', the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and friends to save their town and loved ones.",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "runtime": 143,
+      "voteAverage": 6.693,
+      "voteCount": 109,
+      "posterPath": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+      "backdropPath": "/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
+      "youtubePlaylistId": "PLRnfSOtSyGI4",
+      "videos": [
+        {
+          "youtubeLinkID": "0nrvPVnTWlc",
+          "title": "Aayi Nai - 8K Video | Stree 2 | Shraddha Kapoor, Rajkummar, Sachin-Jigar, Pawan Singh, Simran, Divya",
+          "thumbnail": "https://img.youtube.com/vi/0nrvPVnTWlc/maxresdefault.jpg",
+          "duration": "3:08",
+          "durationSec": 188,
+          "date": "2025-05-30T04:30:01-07:00",
+          "resolution": "8K",
+          "viewCount": 35538403
+        },
+        {
+          "youtubeLinkID": "ri1Ar5nEq4s",
+          "title": "Aaj Ki Raat - 8K Video | Stree 2 | Tamannaah Bhatia, Rajkummar Rao, Sachin-Jigar, Madhubanti B,Divya",
+          "thumbnail": "https://img.youtube.com/vi/ri1Ar5nEq4s/maxresdefault.jpg",
+          "duration": "4:38",
+          "durationSec": 278,
+          "date": "2025-05-18T22:56:10-07:00",
+          "resolution": "8K",
+          "viewCount": 270891262
+        },
+        {
+          "youtubeLinkID": "FTI96c3mGG0",
+          "title": "Khoobsurat - 8K Video | Stree 2 | Varun Dhawan, Shraddha Kapoor, Rajkummar Rao, Sachin-Jigar, Vishal",
+          "thumbnail": "https://img.youtube.com/vi/FTI96c3mGG0/maxresdefault.jpg",
+          "duration": "3:53",
+          "durationSec": 233,
+          "date": "2025-06-16T02:30:07-07:00",
+          "resolution": "8K",
+          "viewCount": 8994290
+        }
+      ]
     },
     "1290190-chapter-1": {
       "tmdbId": 1290190,
@@ -709,29 +2172,58 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/tkRZ8BpIlvQIFBQWwEHuAlxczyb.jpg",
       "youtubePlaylistId": "PLTn8b0kpAgS0",
-      "videos": []
-    },
-    "1112426-2": {
-      "tmdbId": 1112426,
-      "title": "Stree 2",
-      "originalTitle": "स्त्री 2: सरकटे का आतंक",
-      "language": "Hindi",
-      "year": 2024,
-      "releaseDate": "2024-08-15",
-      "overview": "Following the events of 'Stree', the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and friends to save their town and loved ones.",
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "runtime": 143,
-      "voteAverage": 6.693,
-      "voteCount": 109,
-      "posterPath": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
-      "backdropPath": "/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
-      "youtubePlaylistId": "PLRnfSOtSyGI4",
-      "videos": []
+      "videos": [
+        {
+          "youtubeLinkID": "dR9B_gPxjkk",
+          "title": "Kiliye Kiliye - Video Song | Lokah Chapter 1: Chandra | Kalyani Priyadarshan | Naslen | Dominic Arun",
+          "thumbnail": "https://img.youtube.com/vi/dR9B_gPxjkk/maxresdefault.jpg",
+          "duration": "2:05",
+          "durationSec": 125,
+          "date": "2025-11-04T02:58:07-08:00",
+          "resolution": "4K",
+          "viewCount": 77093168
+        },
+        {
+          "youtubeLinkID": "DXm6diugHCc",
+          "title": "Queen of the Night | Lokah Movie Song | Kalyani | Naslen | Jakes Bejoy | Dominic Arun | Nimish Ravi",
+          "thumbnail": "https://img.youtube.com/vi/DXm6diugHCc/maxresdefault.jpg",
+          "duration": "3:22",
+          "durationSec": 202,
+          "date": "2025-09-17T06:30:06-07:00",
+          "resolution": "4K",
+          "viewCount": 7909073
+        },
+        {
+          "youtubeLinkID": "Y23dN3JZrcE",
+          "title": "Neeye Punchiri |  | Lokah | Hanan Sha | Reyan | Jakes Bejoy | Kalyani | Naslen | Dominic | Nimish ",
+          "thumbnail": "https://img.youtube.com/vi/Y23dN3JZrcE/maxresdefault.jpg",
+          "duration": "4:01",
+          "durationSec": 241,
+          "date": "2025-10-19T05:18:09-07:00",
+          "resolution": "4K",
+          "viewCount": 27120440
+        },
+        {
+          "youtubeLinkID": "bL1fxyAvPGc",
+          "title": "Paranje Paranje Song | Lokah  | Jakes Bejoy | Anuradha Sriram | Kalyani | Naslen | Dominic | Nimish",
+          "thumbnail": "https://img.youtube.com/vi/bL1fxyAvPGc/maxresdefault.jpg",
+          "duration": "3:35",
+          "durationSec": 215,
+          "date": "2025-10-05T05:35:06-07:00",
+          "resolution": "4K",
+          "viewCount": 3664737
+        },
+        {
+          "youtubeLinkID": "q025lNfr9aU",
+          "title": "Shoka Mookam | Lokah Movie Song 4K | Kalyani |  Naslen | Dominic Arun | Nimish Ravi | JK",
+          "thumbnail": "https://img.youtube.com/vi/q025lNfr9aU/maxresdefault.jpg",
+          "duration": "2:51",
+          "durationSec": 171,
+          "date": "2025-09-05T07:07:48-07:00",
+          "resolution": "4K",
+          "viewCount": 9417843
+        }
+      ]
     }
   }
 }
